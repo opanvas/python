@@ -1,0 +1,1745 @@
+Code,Value,Description,col_name,Description_English
+High,12,رئيس مجلس ادارة,profession,chairman 
+High,13,نائب رئيس مجلس ادارة,profession,Vice Chairman of the Board of Directors 
+High,14,عضو مجلس ادارة,profession,Member of the Board of Directors 
+High,15,مدير عام,profession,Director general 
+High,16,نائب مدير عام,profession,Deputy General Manager 
+High,27,موظف بنك,profession,Banker 
+High,29,محاسب,profession,Accountant 
+High,30,وزير,profession,Minister 
+High,31,قاضي,profession,Judge 
+High,32,سفير,profession,Ambassador 
+High,33,نائب,profession,Deputy 
+High,34,عين,profession,Eye 
+High,35,عميد,profession,dean 
+High,36,لواء,profession,Grud 
+High,37,رئيس حكومة,profession,President 
+High,38,رئيس دولة,profession,President 
+High,39,سياسي بارز,profession,Large political 
+High,40,منصب حكومي لدى دولة اجنبية,profession,Government is a foreign country 
+High,41,شخص معرض سياسي اجنبي,profession,A foreign political exhibition 
+High,42,شخص عسكري لدى دولة اجنبية,profession,A military person with a foreign country 
+High,5,مقاول,profession,contractor 
+High,8,محامي,profession,Attorney 
+Low,11,حرفي,profession,Letter 
+Low,18,حلاق,profession,Barber 
+Low,19,لحام,profession,Wa 
+Low,20,موظف,profession,Officer 
+Low,21,متقاعد,profession,Persuaded 
+Low,22,طالب,profession,Student 
+Low,23,ربة منزل,profession,House wife 
+Low,24,رئيس قسم,profession,Head of the Department 
+Low,26,سائق,profession,Driver 
+Low,28,طباخ (شيف),profession,Cook (chef) 
+Low,3,مدرس,profession,teacher 
+Low,4,مزارع,profession,Farmer 
+Low,6,نجار,profession,Carpenter 
+Low,7,حداد,profession,Haddad 
+Low,9,ممرض,profession,Nurse 
+Medium,1,طبيب,profession,A doctor 
+Medium,10,تاجر,profession,dealer 
+Medium,17,مدير,profession,Manager 
+Medium,2,مهندس,profession,Engineer 
+Medium,25,صاحب شركة (عمل),profession,Company (work) 
+ , ,ممرض,profession,Nurse 
+High,1041,ارصده لدى بنوك خارج المملكه / اشعار,ledgerCode,
+High,1050,شيكات برسم القبض (اوراق مشتراه),ledgerCode,I made you at banks outside the kingdom / notice 
+High,1120,استثمارات فى الاسهم,ledgerCode,Checks Capture (Paper Buy) 
+High,1121,إستثمارات في الأسهم/خارجية,ledgerCode,Investments in stocks 
+High,1122,استثمارات في الاسهم لاغراض المتاجره,ledgerCode,Investments in stocks / external 
+High,1125,إتفاقيات إعادة شراء,ledgerCode,Investments in stocks for shops 
+High,1130,محافظ استثماريه مداره من قبل الغير,ledgerCode,Reproduction agreements 
+High,1211,كمبيالات واسناد بنكية مخصومة مستحقة,ledgerCode,Investment Governor orbit by others 
+High,1372,سحوبات اعتمادات واردة مخصومة,ledgerCode,Complaints and discounted banknotes are due 
+High,1403,سحوبات مكفولة مدفوعة / إعتمادات,ledgerCode,Discounts are discounted and discounted 
+High,1404,الكفالات المصادره المدفوعة,ledgerCode,Paid and credits 
+High,1405,سحوبات مكفولة مدفوعة / بوالص تحصيل,ledgerCode,Guarantees paid 
+High,1408,سحوبات مكفولة مدفوعة/برنامج تجارة عربيه,ledgerCode,Drawing paid and collectible 
+High,1858,ايجار صناديق الامانات مستحقة غير مقبوضة,ledgerCode,Drawing Drawings Driven / Arab Trade Program 
+High,1897,الصناديق الحديدية / التغطية الآلية,ledgerCode,Rent unaccompanied safety funds 
+High,1923,بطاقات مدفوعة مقدما,ledgerCode,Ferrous boxes / automatic coverage 
+High,1926,سحوبات عملاء الشركة الاردنية لخدمة الدفع,ledgerCode,Paid cards 
+High,1931,سحوبات البنوك الأخرىعلىأجهزةالصراف الآلي,ledgerCode,Drawings of the Jordanian Company for Payment Service 
+High,1995,شراءسحوبات زمنية مقبولة/وبوالص/واعتمادات,ledgerCode,Distribution of other banks 
+High,1996,الإعتمادات التصديريه المدفوعه,ledgerCode,Purchase of accepted periods of / pulses / and credits 
+High,1997,تمويل الى مستفيد خارجي/تعهدات,ledgerCode,Export credits paid 
+High,2000,مراكز العملات الاجنبية,ledgerCode,Financing to an external beneficiary / pledges 
+High,2010,مركز عملة/بيع آني برسم التسليم,ledgerCode,Foreign exchange centers 
+High,2011,مركز عملة/بيع آجل,ledgerCode,Currency Center / Sell Annie Platform Delivery 
+High,2012,مركز عملة/شراء آني برسم الإستلام,ledgerCode,Currency Center / Selling Age 
+High,2013,مركز عملة/شراء آجل,ledgerCode,Currency center / purchase Annie der 
+High,2070,استاذ عملاء هامش متاجرة,ledgerCode,Currency / Purchase Center 
+High,2501,,ledgerCode,Professor margin trading clients 
+High,2821,تامينات امناء الصناديق,ledgerCode,male 
+High,2825,تأمينات صناديق حديديه/عملاء,ledgerCode,Fund secretaries 
+High,3202,شيكات مباعة وغير مصروفة,ledgerCode,Iron box insurance / clients 
+High,3284,البطاقات المدفوعة مسبقاً,ledgerCode,Sold and non-expense checks 
+High,3323,سحوبات عملاء البنك على أجهزةالصراف الآلي,ledgerCode,Pre-paid cards 
+High,3324,سحوبات عملاء البنك على نقاط البيع,ledgerCode,Bank clients with automated arts 
+High,3326,أمانات شراء المديونبات من البنوك الأخرى,ledgerCode,Bank clients with points of sale 
+High,4000,تعهدات عملاء /اعتمادات مستندية صادرة,ledgerCode,Purchase of debts from other banks 
+High,4001,تعهدات عملاء/اعتمادات مستنديةزمنية صادرة,ledgerCode,Customer commitments / documentary credits issued 
+High,4002,تعهدات عملاء/برنامج تمويل تجارة عربيه,ledgerCode,Customers / Credit Credits 
+High,4010,تعهدات بنوك/اعتمادات مستندية واردة,ledgerCode,Customer Customers / Finance Program 
+High,4011,تعهدات بنوك/اعتمادات مستندية زمنية واردة,ledgerCode,Incoming documentation 
+High,4020,تعهدات البنوك/اعتمادات تصدير عملاء اطلاع,ledgerCode,Incoming consideration of banks / credits 
+High,4021,تعهدات البنوك/اعتمادات تصدير اطلاع عام,ledgerCode,Bank pledges / Credits Export customers 
+High,4022,تعدات البنوك/اعتمادات تصدير عملاء زمنية,ledgerCode,Bank pledges / export credits 
+High,4023,تعهدات البنوك/اعتمادات تصدير زمنية (عام),ledgerCode,Banking / Credits Export Time Customers 
+High,4024,تعهدات بنوك/اعتمادتصديرمحول إطلاع عملاء,ledgerCode,Banking pledges / time export credits (General) 
+High,4025,تعهدات بنوك/اعتماد تصدير محولة إطلاع عام,ledgerCode,Campaigns / Customers' commitments 
+High,4026,تعهدات بنوك/اعتمادتصدير محول زمنية عملاء,ledgerCode,Creditors / Adoption of Export Export 
+High,4027,تعهدات بنوك/إعتمادتصدير محول زمنية (عام),ledgerCode,Customers / Customer Customer Adapter 
+High,4028,مستندات مطابقة إطلاع/اعتمادات تصديرعملاء,ledgerCode,Covenants / Separation (General) 
+High,4029,مستندات مطابقة إطلاع/اعتمادات تصدير عام,ledgerCode,Matching documents / ad credentials 
+High,4030,مستندات بخلافات إطلاع/اعتماد تصدير عملاء,ledgerCode,Matching documents / general export credits 
+High,4032,مستندات بخلافات إطلاع/اعتماد تصدير عام,ledgerCode,Documents with disagreements / adoption of clients export 
+High,4033,مستندات مطابقة زمنية/اعتماد تصدير عملاء,ledgerCode,Documents with public export 
+High,4034,مستندات مطابقة زمنية/اعتماد تصدير عام,ledgerCode,Documents matching time / adoption of clients export 
+High,4035,مستندات بخلافات زمنية/اعتماد تصدير عملاء,ledgerCode,Documents matching time / adoption of general export 
+High,4036,مستندات بخلافات زمنية/اعتماد تصدير عام,ledgerCode,Documents in time variations / adoption of clients export 
+High,4037,تعهدات بنوك/سحوبات زمنية,ledgerCode,Documents with time variations / adoption of general export 
+High,4100,تعهدات عملاء/سحوبات زمنية مكفولة صادرة,ledgerCode,Corps of banks / time dysfunction 
+High,4101,تعهدات عملاء/سحوبات زمنيةقروض تجارةعربيه,ledgerCode,Customer pledges / outgoing periods of time 
+High,4110,تعهدات بنوك/سحوبات زمنية مكفولة واردة,ledgerCode,Customer Customers / Drawings Traders 
+High,4111,سحوبات مقبولة مكفولة بوالص تحصيل صادرة,ledgerCode,Incoming interest in banks / incoming time 
+High,4112,تعهدات سحوبات مقبولةمكفولةبوالص تحصيل صا,ledgerCode,Acceptable loads are guaranteed by issued collection 
+High,4200,تعهدات عملاء/كفالات,ledgerCode,The pledges of defaults acceptable 
+High,4220,تعهدات /كفالات واردة مقابل كفالات صادرة,ledgerCode,Customer commitments / guarantees 
+High,4221,تعهد بنك/كفالات واردة مقابل تسهيلات اخرى,ledgerCode,Credit / guarantees contained in exchange for issued sponsors 
+High,4222,تعهدات لصالح الغير/البنك التجاري الأردني,ledgerCode,Bank / Companies in exchange for other facilities 
+High,4303,بوالص التحصيل الصادرة,ledgerCode,Commitments to others / Commercial Bank of Jordan 
+High,4305,شيكات مودعة مقابل تسهيلات-جاري مدين,ledgerCode,Boarding issued 
+High,4320,بوالص التحصيل الواردة,ledgerCode,Official checks for facilities - Jari 
+High,4330,سحوبات بوالص تحصيل واردة مقبولة,ledgerCode,The collection of incoming 
+High,4331,سحوبات بوالص تحصيل واردة مكفولة,ledgerCode,Pulls with an acceptable incoming collection 
+High,4410,شيكات مصادر سداد,ledgerCode,Incoming detailed 
+High,4500,تعهدات الفروع المحلية-شراء آني,ledgerCode,Checks for payment sources 
+High,4501,تعهدات الفروع المحلية-شراء آجل,ledgerCode,Popies of local branches - buy Annie 
+High,4502,تعهدات الفروع المحلية-شراء اختياري,ledgerCode,Local Branches - Purchase Age 
+High,4503,تعهدات الفروع المحلية-شراء سواب,ledgerCode,Local branches pledges - optional purchase 
+High,4504,تعهدات الفروع المحلية-شراء مراجحه,ledgerCode,Popies of local branches - buy swab 
+High,4510,تعهدات الفروع الخارجية-شراء آني,ledgerCode,Pedies of local branches - purchase 
+High,4511,تعهدات الفروع الخارجية-شراء آجل,ledgerCode,External branches - buy Annie 
+High,4512,تعهدات الفروع الخارجية-شراء اختياري,ledgerCode,External Branches - Purchase Age 
+High,4513,تعهدات الفروع الخارجية-شراء سواب,ledgerCode,External branches - optional purchase 
+High,4514,تعهدات الفروع الخارجية-شراء مراجحة,ledgerCode,External branches - Purchase of Sawab 
+High,4520,تعهدات العملاء - شراء آني,ledgerCode,External branches - purchase 
+High,4521,تعهدات العملاء - شراء آجل,ledgerCode,Customer Pedies - Buy Annie 
+High,4522,تعهدات العملاء - شراء اختياري,ledgerCode,Customer Pedies - Buy Age 
+High,4523,تعهدات العملاء - شراء سواب,ledgerCode,Customer pledges - Optional purchase 
+High,4524,تعهدات العملاء - شراء مراجحه,ledgerCode,Customer pledges - Buy Spa 
+High,4530,تعهدات البنوك - شراء أني,ledgerCode,Customer pledges - buy a curry 
+High,4531,تعهدات البنوك - شراء آجل,ledgerCode,Bank pledges - buy 
+High,4532,تعهدات البنوك - شراء اختياري,ledgerCode,Bank pledges - buy a line 
+High,4533,تعهدات البنوك - شراء سواب,ledgerCode,Bank pledges - buy optional 
+High,4534,تعهدات البنوك - شراء مراجحة,ledgerCode,Bank pledges - Purchase of Swab 
+High,4540,التزامات الفروع المحلية-بيع آني,ledgerCode,Bank pledges - buy a successful 
+High,4541,التزامات الفروع المحلية-بيع آجل,ledgerCode,Obligations of local branches - selling Annie 
+High,4542,التزامات الفروع المحلية-بيع اختياري,ledgerCode,Losses Local Branches - Selling Age 
+High,4543,التزامات الفروع المحلية-بيع سواب,ledgerCode,Obligations of local branches - optional sale 
+High,4544,التزامات الفروع المحلية-بيع مراجحه,ledgerCode,Local branches' obligations 
+High,4550,التزامات الفروع الخارجية-بيع آني,ledgerCode,Obligations of local branches - selling 
+High,4551,التزامات الفروع الخارجية-بيع آجل,ledgerCode,External Branches - Sell Annie 
+High,4552,التزامات الفروع الخارجية-بيع اختياري,ledgerCode,External branches - Selling Age 
+High,4553,التزامات الفروع الخارجية-بيع سواب,ledgerCode,External branches - optional sale 
+High,4554,التزامات الفروع الخارجية-بيع مراجحة,ledgerCode,External branches - Selling Sell 
+High,4560,التزامات العملاء - بيع آني,ledgerCode,External branches - sale 
+High,4561,التزامات العملاء - بيع آجل,ledgerCode,Customer Obligations - Sell Annie 
+High,4562,التزامات العملاء - بيع اختياري,ledgerCode,Customer commitments - Selling Age 
+High,4563,التزامات العملاء - بيع سواب,ledgerCode,Customer commitments - Optional sale 
+High,4564,التزامات العملاء - بيع مراجحه,ledgerCode,Customer commitments - Sell Sell 
+High,4570,التزامات البنوك - بيع أني,ledgerCode,Customer commitments - selling 
+High,4571,التزامات البنوك - بيع آجل,ledgerCode,Banks' Obligations - Sell Any 
+High,4572,التزامات البنوك - بيع اختياري,ledgerCode,Bankings - Selling Age 
+High,4573,التزامات البنوك - بيع سواب,ledgerCode,Bankings - Optional sale 
+High,4574,التزامات البنوك - بيع مراجحة,ledgerCode,Banking Obligations - Selling Swab 
+High,4811,أذونات خزينة لعملاء لدينا,ledgerCode,Bankings - Selling Sell 
+High,4818,تعهدات تنفيذ المشاريع لصالح البنك-كفالات,ledgerCode,Treasury permissions for our customers 
+High,4820,تعهدات عملاء مدينة مباشرة,ledgerCode,Project implementation pledges for the Bank - Guarantees 
+High,4821,تعهدات لصالح الغير,ledgerCode,Direct City Customers 
+High,5000,اعتمادات عملاء مستندية صادرة,ledgerCode,Popies for others 
+High,5001,اعتمادات عملاء مستندية زمنية صادرة,ledgerCode,Documentary customer credits issued 
+High,5002,اعتمادات عملاء زمنية/قروض تجارة عربيه,ledgerCode,Credits of issued documentary clients issued 
+High,5010,اعتمادات مستندية واردة,ledgerCode,Credits of time clients / Arab trade loans 
+High,5011,اعتمادات مستندية زمنية واردة,ledgerCode,Documentary credits are incoming 
+High,5020,اعتمادات تصدير عملاء اطلاع,ledgerCode,First documentary credits are incoming 
+High,5021,اعتمادات تصدير اطلاع/عام,ledgerCode,Export customer export credits 
+High,5022,اعتمادات تصدير زمنية عملاء,ledgerCode,Export appropriations 
+High,5023,اعتمادات تصدير زمنية (عام),ledgerCode,Credits export clients 
+High,5024,اعتمادات تصدير محولة إطلاع عملاء,ledgerCode,Time export credits (General) 
+High,5025,اعتمادات تصدير محولة إطلاع (عام),ledgerCode,Export credits converted clients 
+High,5026,اعتمادات تصدير محولة زمنية عملاء,ledgerCode,Export credits: General 
+High,5027,اعتمادات تصدير محولة زمنية/عام,ledgerCode,Export credits for customer time 
+High,5028,مستندات مطابقة إطلاع/اعتمادات تصديرعملاء,ledgerCode,Export credits / year / year 
+High,5029,مستندات مطابقة إطلاع/اعتمادات تصدير عام,ledgerCode,Matching documents / ad credentials 
+High,5030,مستندات بخلافات إطلاع/اعتماد تصدير عملاء,ledgerCode,Matching documents / general export credits 
+High,5032,مستندات بخلافات إطلاع/اعتماد تصدير عام,ledgerCode,Documents with disagreements / adoption of clients export 
+High,5033,مستندات مطابقة زمنية/اعتماد تصدير عملاء,ledgerCode,Documents with public export 
+High,5034,مستندات مطابقة زمنية/اعتماد تصدير عام,ledgerCode,Documents matching time / adoption of clients export 
+High,5035,مستندات بخلافات زمنية/اعتماد تصدير عملاء,ledgerCode,Documents matching time / adoption of general export 
+High,5036,مستندات بخلافات زمنية/اعتماد تصدير عام,ledgerCode,Documents in time variations / adoption of clients export 
+High,5037,سحوبات اعتمادات تصدير,ledgerCode,Documents with time variations / adoption of general export 
+High,5100,سحوبات عملاء زمنية مكفولة صادرة,ledgerCode,Export plugs 
+High,5101,سحوبات زمنية مكفولة/قروض التجارة العربية,ledgerCode,Drawing outgoing time clients 
+High,5110,سحوبات زمنية مكفولة وارده,ledgerCode,Guardianship / Arab trade loans 
+High,5111,تعهدات سحوبات مقبولةمكفولةبوالص تحصيل صا,ledgerCode,Timers are guaranteed 
+High,5112,تعهدات سحوبات مقبولةمكفولةبوالص تحصيل صا,ledgerCode,The pledges of defaults acceptable 
+High,5200,الكفالات الصادرة,ledgerCode,The pledges of defaults acceptable 
+High,5220,كفالات واردة ضمان لكفالات صادرة,ledgerCode,Guarantees outgoing 
+High,5221,كفالات واردة ضمان لتسهيلات اخرى,ledgerCode,Incoming Guarantee Guarantee Guarantee 
+High,5303,أصحاب بوالص التحصيل الصادرة,ledgerCode,Incoming guarantee guarantees for other facilities 
+High,5305,مودعو شيكات مقابل تسهيلات-جاري مدين,ledgerCode,The owners of the issued collection 
+High,5320,مودعو بوالص التحصيل الواردة,ledgerCode,Checks for checks - Jari Dadin 
+High,5330,مودعو سحوبات بوالص تحصيل واردة مقبولة,ledgerCode,The collection of incoming 
+High,5331,مودعو سحوبات بوالص تحصيل واردة مكفولة,ledgerCode,Pulls with incomplete collection 
+High,5500,التزامات الفروع المحلية-شراء آني,ledgerCode,The models of the withdrawals are guaranteed 
+High,5501,التزامات الفروع المحلية-شراء آجل,ledgerCode,Obligations of local branches - buy Annie 
+High,5502,التزامات الفروع المحلية-شراء اختياري,ledgerCode,Losses Local Branches - Purchase Age 
+High,5503,التزامات الفروع المحلية-شراء سواب,ledgerCode,Obligations of local branches - optional purchase 
+High,5504,التزامات الفروع المحلية-شراء مراجحه,ledgerCode,Losses Local Branches - Purchase of Sawab 
+High,5510,التزامات الفروع الخارجية-شراء آني,ledgerCode,Obligations of local branches - purchase per capita 
+High,5511,التزامات الفروع الخارجية-شراء آجل,ledgerCode,External branches - buy Annie 
+High,5512,التزامات الفروع الخارجية-شراء اختياري,ledgerCode,External branches - buying post 
+High,5513,التزامات الفروع الخارجية-شراء سواب,ledgerCode,External branch commitments - optional purchase 
+High,5514,التزامات الفروع الخارجية-شراء مراجحة,ledgerCode,Outsourcing of external branches - buy 
+High,5520,التزامات العملاء - شراء آني,ledgerCode,External branches - buying successful 
+High,5521,التزامات العملاء - شراء آجل,ledgerCode,Customer Obligations - Buy Annie 
+High,5522,التزامات العملاء - شراء اختياري,ledgerCode,Customer Obligations - Buy Age 
+High,5523,التزامات العملاء - شراء سواب,ledgerCode,Customer Obligations - Optional Buy 
+High,5524,التزامات العملاء - شراء مراجحه,ledgerCode,Customer Obligations - Buy Spie 
+High,5530,التزامات البنوك - شراء أني,ledgerCode,Customer Obligations - Purchase 
+High,5531,التزامات البنوك - شراء آجل,ledgerCode,Banks' Obligations - Buy Any 
+High,5532,التزامات البنوك - شراء اختياري,ledgerCode,Banks' Obligations - Purchase Age 
+High,5533,التزامات البنوك - شراء سواب,ledgerCode,Bankings - Optional purchase 
+High,5534,التزامات البنوك - شراء مراجحة,ledgerCode,Banks' Obligations - Buy Swab 
+High,5540,تعهدات الفروع المحلية-بيع آني,ledgerCode,Banks' obligations - buy a swing 
+High,5541,تعهدات الفروع المحلية-بيع آجل,ledgerCode,Pediages of local branches - selling Annie 
+High,5542,تعهدات الفروع المحلية-بيع اختياري,ledgerCode,Local branches - Selling Age 
+High,5543,تعهدات الفروع المحلية-بيع سواب,ledgerCode,Pedies of local branches - optional sale 
+High,5544,تعهدات الفروع المحلية-بيع مراجحه,ledgerCode,Local branches pledges 
+High,5550,تعهدات الفروع الخارجية-بيع آني,ledgerCode,Pedies of local branches - selling for sale 
+High,5551,تعهدات الفروع الخارجية-بيع آجل,ledgerCode,External Branches - Sell Annie 
+High,5552,تعهدات الفروع الخارجية-بيع اختياري,ledgerCode,External branches - Selling Age 
+High,5553,تعهدات الفروع الخارجية-بيع سواب,ledgerCode,External branches - optional sale 
+High,5554,تعهدات الفروع الخارجية-بيع مراجحة,ledgerCode,External subsidies 
+High,5560,تعهدات العملاء - بيع آني,ledgerCode,External branches - sale 
+High,5561,تعهدات العملاء - بيع آجل,ledgerCode,Customer pledges - Annie sale 
+High,5562,تعهدات العملاء - بيع اختياري,ledgerCode,Customer pledges - Selling Age 
+High,5563,تعهدات العملاء - بيع سواب,ledgerCode,Customer pledges - Optional sale 
+High,5564,تعهدات العملاء - بيع مراجحه,ledgerCode,Customer pledges - Selling Sell 
+High,5570,تعهدات البنوك - بيع أني,ledgerCode,Customer commitments - selling 
+High,5571,تعهدات البنوك - بيع آجل,ledgerCode,Bank pledges - sell 
+High,5572,تعهدات البنوك - بيع اختياري,ledgerCode,Bank pledges - Selling Age 
+High,5573,تعهدات البنوك - بيع سواب,ledgerCode,Bank pledges - Optional sale 
+High,5574,تعهدات البنوك - بيع مراجحة,ledgerCode,Bank pledges - Sell Sawab 
+High,5818,كفالات واردة لتنفيذ مشاريع لصالح البنك,ledgerCode,Bank pledges - sale 
+High,5819,تعهدات عملاء دائنة مباشرة,ledgerCode,Incoming guarantees to implement projects for the bank 
+High,5821,تعهدات لصالح الغير,ledgerCode,Customer pledges directly 
+High,5822,تعهدات لصالح الغير/البنك التجاري الأردني,ledgerCode,Popies for others 
+High,8130,عوائدالمحافظ الاستثمارية,ledgerCode,Commitments to others / Commercial Bank of Jordan 
+Low,10,جاري,ledgerCode,Proceeds of investment portfolios 
+Low,1023,شهادات ايداع لدى بنوك تجاريةوشركات مالية,ledgerCode,Current 
+Low,11,حسابات جارية تحت الطلب -غيرمقيم,ledgerCode,Filter certificates with business banks 
+Low,1111,اسناد قروض شركات القطاع الخاص,ledgerCode,Current accounts under demand 
+Low,1200,كمبيالات واسناد تجارية مخصومة,ledgerCode,Assign private sector loans 
+Low,1210,كمبيالات واسناد تجارية مخصومة مستحقة,ledgerCode,Complaints and discounted 
+Low,1214,كمبيالات سلف تمويل متوسط الاجل,ledgerCode,Complaints and assignment is defined 
+Low,1215,كمبيالات سلف تمويل متوسط الاجل مستحقة,ledgerCode,Complaints predecessor 
+Low,1250,قرض اعادة تمويل عقار,ledgerCode,Complaints predecessor is due 
+Low,1251,اقساط مستحقة قرض اعادة تمويل عقار,ledgerCode,Reconstruction loan 
+Low,1252,قرض شراء أرض سكنية,ledgerCode,Premiums due to re-financing real estate 
+Low,1253,اقساط مستحقة قروض تمويل اراضي سكنية,ledgerCode,Loan Purchase Residential Land 
+Low,1255,قروض حرفيين,ledgerCode,Premiums due to residential land financing loans 
+Low,1257,قرض اعادة تمويل عقار,ledgerCode,Loans of craftsmen 
+Low,1258,قرض شخصي مقابل تأمينات نقدية,ledgerCode,Reconstruction loan 
+Low,1259,قرض تعليمي متناقص,ledgerCode,Personal loan vs. cash insurance 
+Low,1260,قرض حاسوب,ledgerCode,Decreased tutorial loan 
+Low,1261,قرض تمويل سلع بدون فائدة,ledgerCode,Computer Loan 
+Low,1262,قرض اسكان التطوير الحضري,ledgerCode,Loan financing goods without interest 
+Low,1263,قرض شراء الأراضي,ledgerCode,Urban Development Loan 
+Low,1264,أقساط مستحقةقرض صندوق عربي للانماءالاقت,ledgerCode,Land purchase loan 
+Low,1265,أقساط مستحقة قروض حرفيين,ledgerCode,Accounting Premiums 
+Low,1266,أقساط مستحقة قروض عملاء البنك الدولي,ledgerCode,Premiums due to craftsmen 
+Low,1267,اقساط مستحقة قرض اعادة تمويل عقار,ledgerCode,Premiums due to World Bank Customer Loans 
+Low,1268,أقساطمستحقة/قرض شخصي مقابل تأمينات نقدية,ledgerCode,Premiums due to re-financing real estate 
+Low,1269,أقساط مستحقة / قرض تعليمي متناقص,ledgerCode,Personal loan against cash insurance 
+Low,1270,أقساط مستحقة /قرض حاسوب متناقص,ledgerCode,Plates due / decreased educational loan 
+Low,1272,أقساط مستحقة/ قرض اسكان التطوير الحضري,ledgerCode,Plates due / decreased computer loan 
+Low,1273,أقساط مستحقة قروض شراء أراضي,ledgerCode,Plates due / urban development housing loan 
+Low,1274,قرض سكن كريم لعيش كريم,ledgerCode,Premiums due to purchase land loans 
+Low,1275,أقساط مستحقة/قرض سكن كريم لعيش كريم,ledgerCode,Cream housing loan to live cream 
+Low,1277,أقساط مستحقة/عملاء ش. خدمات الدفع,ledgerCode,Plates owed / cream housing loan to live cream 
+Low,1300,سلف تمويل التصدير,ledgerCode,Plates due / clients. Payment services 
+Low,1301,قرض شخصي استهلاكي,ledgerCode,Export financing 
+Low,1302,قرض سيارة,ledgerCode,Personal loan consumed 
+Low,1303,قروض الحرفين,ledgerCode,Car loan 
+Low,1304,قروض تجمع بنكى بضمان الحكومة,ledgerCode,Loans of artists 
+Low,1305,قروض تجمع بنكى بضمانات اخرى,ledgerCode,Banking loans with government guarantee 
+Low,1306,سلف وقروض عملاءاخرى,ledgerCode,Banking loans with other guarantees 
+Low,1308,قرض سكني,ledgerCode,Sulfur and other clients 
+Low,1309,قرض دعم التمويل الإسكاني,ledgerCode,Residential loan 
+Low,1310,أقساط مستحقة/قرض شخصي استهلاكي,ledgerCode,Loan support for housing financing 
+Low,1311,أقساط مستحقة / قرض سيارة,ledgerCode,Personal loan consumed 
+Low,1312,اقساط قروض عملاء مستحقة قرض البنك الدولى,ledgerCode,Premiums due / car loan 
+Low,1313,أقساط مستحقة / قرض سكني,ledgerCode,Customer loan installments 
+Low,1314,أقساطمستحقة/قرض شخصي مقابل تأمينات نقدية,ledgerCode,Plates due / residential loan 
+Low,1315,أقساط مستحقة/ قروض الحرفيين,ledgerCode,Personal loan against cash insurance 
+Low,1316,أقساط مستحقة/سلف وقروض عملاء أخرى,ledgerCode,Plates owed / craftsmen loans 
+Low,1317,أقساط مستحقة/قرض دعم التمويل الإسكاني,ledgerCode,Plates due / predecessor and other clients loans 
+Low,1318,أقساط مستحقة / قرض شخصي,ledgerCode,Plates owed / loan support for housing financing 
+Low,1319,أقساط مستحقة / قرض تعليمي متناقص,ledgerCode,Personal Loan 
+Low,1325,أقساط مستحقة/ق.إجازات متناقصة,ledgerCode,Plates due / decreased educational loan 
+Low,1326,أقساط مستحقة /قرض حاسوب متناقص,ledgerCode,Plates due / signed 
+Low,1328,أقساط مستحقة / قرض تعليمي,ledgerCode,Plates due / decreased computer loan 
+Low,1330,سلف موظفين,ledgerCode,Plates due / educational loan 
+Low,1332,قرض سكني / موظفين,ledgerCode,Predatory 
+Low,1333,أقساط مستحقة / قرض حاسوب,ledgerCode,Residential loan / employees 
+Low,1335,قروض تمويل سلع,ledgerCode,Plates due / a computer loan 
+Low,1336,قروض تمويل أقساط تعليمية,ledgerCode,Financing loans 
+Low,1337,قروض شراء أراضي سكنية,ledgerCode,Loans for educational premiums 
+Low,1338,قروض تمويل سلع مستحقة,ledgerCode,Loans buy residential lands 
+Low,1339,قروض تمويل أقساط تعليمية مستحقة,ledgerCode,Financing loans 
+Low,1340,قروض متجدده,ledgerCode,Financing loans entitled educational premiums 
+Low,1341,أقساط مستحقة قروض شراء أراضي سكنية,ledgerCode,Renewed loans 
+Low,1342,قروض علاجية,ledgerCode,Premiums due to loans buy residential lands 
+Low,1343,قروض علاجية مستحقة,ledgerCode,Treatment loans 
+Low,1344,قرض دوار,ledgerCode,Treatment loans due 
+Low,1345,اقساط مستحقة قرض دوار,ledgerCode,Rotary loan 
+Low,1348,سلف تمويل متوسطة الاجل - دوار,ledgerCode,Premiums due to rotary loan 
+Low,1349,اقساط مستحقة سلف تمويل متوسط الاجل دوار,ledgerCode,Advance Middle Ages - Roundabout 
+Low,1350,قرض شخصي مقابل شهادات ايداع,ledgerCode,Premiums due to the advances of the medium term rotary funding 
+Low,1351,قرض تعليمي متناقص,ledgerCode,Personal loan for deposit certificates 
+Low,1353,قرض حاسوب,ledgerCode,Decreased tutorial loan 
+Low,1354,قرض تمويل سلع بدون فائدة,ledgerCode,Computer Loan 
+Low,1355,قرض شخصي,ledgerCode,Loan financing goods without interest 
+Low,1356,قرض تعليمي,ledgerCode,personal loan 
+Low,1358,قرض تمويل سلع,ledgerCode,Loan tutorial 
+Low,1361,قرض وقود,ledgerCode,Loan financing goods 
+Low,1363,قرض سكن كريم لعيش كريم,ledgerCode,Fuel loan 
+Low,1364,أقساط مستحقة/قرض سكن كريم لعيش كريم,ledgerCode,Cream housing loan to live cream 
+Low,1365,قرض سيارة متناقص,ledgerCode,Plates owed / cream housing loan to live cream 
+Low,1366,اقساط مستحقة / قرض سيارة متناقص,ledgerCode,Loan decreased car 
+Low,1368,قروض مسـاندة/عملاء,ledgerCode,Premiums due / decreased car 
+Low,1369,أقساط مستحقة/برنامج تمويل التجارةالعربية,ledgerCode,Support Loans / Clients 
+Low,1370,قرض إسكان التطوير الحضري,ledgerCode,Premiums due / trade finance program 
+Low,1371,أقساط مستحقة / قرض إسكان التطوير الحضري,ledgerCode,Urban Development Loan 
+Low,1373,تجاري بيزنس,ledgerCode,Plates owed / housing loan urban development 
+Low,1374,أقساط مستحقة / تجاري بيزنس,ledgerCode,Commercial Business 
+Low,1375,قروض متناقصة شركات صغيرة ومتوسطة,ledgerCode,Commercial / Commercial installments 
+Low,1376,اقساط مستحقة قروض متاقصة صغيرة ومتوسطة,ledgerCode,Combined loans and middle and medium companies 
+Low,1377,سلف تمويل متوسط الاجل,ledgerCode,Premiums due to small and medium-sized 
+Low,1378,أقساط مستحقة / سلف تمويل متوسط الاجل,ledgerCode,Advances 
+Low,1379,قرض متناقصةالصندوق العربي للانماءالاقتصا,ledgerCode,Premiums due / expeditiously 
+Low,1380,أقساط مستحقةقرض صندوق عربي للانماءالاقتص,ledgerCode,Annotary loan for the Arab Fund for Development 
+Low,1381,قرض متناقص / حكومة أو بكفالة الحكومة,ledgerCode,Answered accounts for an Arab Fund for Development 
+Low,1382,أقساطمستحقة قروض متناقصة حكومةأوبكفالتها,ledgerCode,Deciscas / government or bail government 
+Low,1384,اقساط مستحقة - المنتج الصحي,ledgerCode,I prejudice negotiable loans 
+Low,1385,سلف وقروض عملاء أخرى,ledgerCode,Plates due - Health product 
+Low,1386,قرض سكني,ledgerCode,Self and other clients 
+Low,1387,قرض دعم التمويل الاسكاني,ledgerCode,Residential loan 
+Low,1388,قرض سكني / موظفين,ledgerCode,Loan support for housing financing 
+Low,1389,قرض شخصي,ledgerCode,Residential loan / employees 
+Low,1390,تجـاري بيزنس,ledgerCode,personal loan 
+Low,1391,قروض متناقصة شركات صغيرة ومتوسطة,ledgerCode,Commercial Business 
+Low,1392,قروض تمويل صناعي,ledgerCode,Combined loans and middle and medium companies 
+Low,1393,أقساط مستحقة/سلف وقروض عملاء أخرى,ledgerCode,Industrial funding loans 
+Low,1394,أقساط مستحقة / قرض سكني,ledgerCode,Plates due / predecessor and other clients loans 
+Low,1395,أقساط مستحقة/قرض دعم التمويل الاسكاني,ledgerCode,Plates due / residential loan 
+Low,1396,أقساط مستحقة / قرض شخصي,ledgerCode,Plates owed / Loan support for housing financing 
+Low,1397,أقساط مستحقة / تجاري بيزنس,ledgerCode,Personal Loan 
+Low,1398,أقساط مستحقة قروض متناقصة صغيرة ومتوسطة,ledgerCode,Commercial / Commercial installments 
+Low,1399,أقساط مستحقة / قروض تمويل صناعي,ledgerCode,Plates due to small and medium decreasing loans 
+Low,1400,جاري مدين,ledgerCode,Plates due / industrial financing loans 
+Low,1401,الجارى مدين المستندى,ledgerCode,Current 
+Low,1402,البضائع المخزنة بوندد,ledgerCode,Current debtor debtor 
+Low,1406,ذمم سحوبات بطاقات الائتمان,ledgerCode,The goods stored with 
+Low,1412,جاري مدين / رواتب,ledgerCode,Dumps of credit cards 
+Low,1413,بطاقات ائتمان (مستحقة),ledgerCode,Current / Salaries 
+Low,1900,شيكات معادة,ledgerCode,Credit Cards (due) 
+Low,1924,سحوبات عملاء بطاقات ائتمان,ledgerCode,Limited checks 
+Low,1928,مدينون / عقارات مباعه بأقساط,ledgerCode,Discussion Credit Cards 
+Low,1929,سحوبات بطاقات فيزا الكترون,ledgerCode,Madinoun / Real Estate Sold in installments 
+Low,20,توفيري الذهبي,ledgerCode,Visa Card Draws 
+Low,21,ودائع العملاء التوفير - غير مقيم,ledgerCode,Golden Tourie 
+Low,2610,حسابات بنوك تجارية وشركات مالية/جارى,ledgerCode,Customer Deposits Saving - Non-Resident 
+Low,2611,حسابات بنوك تجاريةوشركات مالية/اشعار,ledgerCode,Accounts of Commercial Banks and Financial Companies / Jari 
+Low,2700,قروض من بنك مركزى/سلف تمويل تصدير,ledgerCode,Accounts Banking Banks Financial / Notice 
+Low,2730,قروض من بنوك خارج المملكة,ledgerCode,Loans from Central Bank / Export Finance 
+Low,3200,شيكات مصدقة,ledgerCode,Loans from banks outside the Kingdom 
+Low,3208,شيكات مرتجعة,ledgerCode,Certified checks 
+Low,3209,شيكات موقوفة,ledgerCode,Checking checks 
+Low,3210,شيكات تسديد كمبيالات,ledgerCode,Checks suspended 
+Low,3211,دفعات تسديد اقساط قروض البيع الاجل,ledgerCode,Completion checks 
+Low,3212,دفعات تسديد أقساط قروض,ledgerCode,Payment payments for sale loan premiums 
+Low,3216,شيكات مقبولة الدفع/النظام الجديد,ledgerCode,Loan payments payments 
+Low,3264,دفعات تسديد جاري مدين,ledgerCode,Official checks / new order 
+Low,3265,دفعات تسديد قروض دوارة,ledgerCode,Current payment payments 
+Low,3296,أمانات عملاء,ledgerCode,Payments pay rotary loans 
+Low,3305,أمانات عملاء / تجزئة,ledgerCode,Client secretaries 
+Low,4300,كمبيالات عملاء مودعة للتحصيل,ledgerCode,Client secretaries / retail 
+Low,4301,شيكات عملاء مودعة للتحصيل,ledgerCode,Complaints for collectible clients 
+Low,4306,شيكات مودعه مقابل تسهيلات-قروض دوارة,ledgerCode,Checks for collection clients 
+Low,50,شهادات ايداع العملاء-مقيم,ledgerCode,Checked checks for facilities - rotary loans 
+Low,51,شهادات ايداع/عملاء غير مقيمين,ledgerCode,Customer deposit certificates - Resident 
+Low,5301,مودعو شيكات للتحصيل/عملاء,ledgerCode,Certificates of deposit / non-resident clients 
+Low,5306,مودعو شيكات مقابل تسهيلات-قروض دوارة,ledgerCode,Collectible checks / clients 
+Low,5410,مودعو شيكات مصادر سداد,ledgerCode,Checks for checks - rotary loans 
+Low,60,توفيري كلاسيك,ledgerCode,Check out sources of payment 
+Low,61,توفير تعليمي,ledgerCode,Classic 
+Low,8700,ايجار صناديق الأمانات,ledgerCode,Provide educational 
+Medium,1203,اوراق تجارية مخصومة/بنوك,ledgerCode,Rent Safety boxes 
+Medium,1204,اوراق تجارية مخصومة/بنوك,ledgerCode,Discounted business papers / banks 
+Medium,1213,اوراق تجارية مخصومة مستحقة/بنوك,ledgerCode,Discounted business papers / banks 
+Medium,1802,تامينات مدفوعة مقدما,ledgerCode,Commercial papers are owed / bank 
+Medium,1922,سحوبات عملاء بطاقات الائتمان,ledgerCode,Paid in advance 
+Medium,2071,استاذ تامينات نقدية لعقود تداول بالهامش,ledgerCode,Credit Card Drawings 
+Medium,2229,شهادات الإيداع,ledgerCode,Professor of cash tactics for contract circulation 
+Medium,2601,ودائع البنك المركزى الخاضعة لاشعار,ledgerCode,Deposit certificates 
+Medium,2612,ودائع بنوك تجاريةوشركات مالية/لاجل,ledgerCode,Deposits of central bank subject to notice 
+Medium,2613,شهادات ايداع بنوك تجارية وشركات مالية,ledgerCode,Deposits of business banks and financial companies 
+Medium,2614,ودائع بنوك تجارية/لأجل يوم واحد,ledgerCode,Certificates deposit of commercial banks and financial companies 
+Medium,2615,ودائع بنوك تجارية وشركات مالية/لاجل,ledgerCode,Commercial bank deposits / one day 
+Medium,2621,ودائع مؤسسات مصرفيةاخرى/اشعار,ledgerCode,Commercial bank deposits and financial companies / for 
+Medium,2622,ودائع مؤسسات مصرفية/لاجل,ledgerCode,Deposits of banking institutions / notice 
+Medium,2630,ودائع بنوك خارج المملكة /جارى,ledgerCode,Deposits of banking institutions / 
+Medium,2631,ودائع بنوك خارج المملكة/اشعار,ledgerCode,Banks outside the Kingdom / Jari 
+Medium,2632,ودائع بنوك خارج المملكة/لاجل,ledgerCode,Bank deposits outside the Kingdom / Notice 
+Medium,2633,شهادات ايداع بنوك خارج المملكة,ledgerCode,Deposits of banks outside the Kingdom / for 
+Medium,2634,ودائع بنوك خارج المملكة / لاجل,ledgerCode,Certificates deposit banks outside the Kingdom 
+Medium,2706,قرض الصندوق العربي للإنماء الاقتصادي,ledgerCode,Deposits of banks outside the Kingdom / for 
+Medium,2800,تامينات نقدية,ledgerCode,Arab Fund Loan for Economic Development 
+Medium,2801,تأمينات نقدية / بطاقات ائتمان,ledgerCode,Cash insurance 
+Medium,2802,تأمينات نقدية / تجاري توفيري,ledgerCode,Cash / Credit Cards 
+Medium,2803,تأمينات نقدية / تسهيلات أفراد,ledgerCode,Cash / Commercial Insurance 
+Medium,2804,تأمينات شهادات إيداع/تسهيلات,ledgerCode,Monetary insurance / personnel facilities 
+Medium,2805,تامينات شهادات ايداع / بطاقات ائتمان,ledgerCode,Deposit certificates / facilities 
+Medium,2806,تأمينات نقديه مقابل تسهيلات,ledgerCode,Certification Certificates / Credit Cards 
+Medium,2807,تأمينات نقديه/بطاقات ائمان,ledgerCode,Cash versus facilities 
+Medium,2808,تأمينات نقديه/تجاري توفيري,ledgerCode,Cash / Safe Memories 
+Medium,2809,تأمينات نقديه/تسهيلات افراد,ledgerCode,Cash / Commercial Insurance 
+Medium,2810,تامينات نقدية مقابل اعتمادات مستندية,ledgerCode,Cash Insurance / Facilities 
+Medium,2811,تامينات نقدية مقابل سحوبات اعتماد زمنى,ledgerCode,Cash for documentary credits 
+Medium,2812,تامينات نقدية مقابل سحوبات تحصيل مكفولة,ledgerCode,Cash insurance vs. 
+Medium,2813,تامينات نقدية مقابل كفالات,ledgerCode,Cash entries for guaranteed collection withdrawals 
+Medium,2814,تأمينات تجيير / إصدار إذونات تسليم,ledgerCode,Cash versus fulfillments 
+Medium,2815,تامينات على مستندات الاعتمادات,ledgerCode,Career insurance / release delivery editors 
+Medium,2820,تامينات صناديق الأمانات,ledgerCode,Taminations on credits documents 
+Medium,31,ودائع خاضعةلاشعار/عملاء غير مقيمين,ledgerCode,Security boxes 
+Medium,32,حسابات تحت الطلب بعوائد استثمارات مالية,ledgerCode,Related deposits / non-resident clients 
+Medium,40,ودائع لأجل ثابتة - عملاء,ledgerCode,Demand accounts with financial investments 
+Medium,41,ودائع العملاء لاجل -غير مقيم,ledgerCode,Deposits for fixed - clients 
+Medium,43,وديعة لأجل ذهبية,ledgerCode,Customer deposits for - non-resident 
+Medium,4304,شيكات عملاء مرسلة للتحصيل,ledgerCode,A golden deposit 
+Medium,4311,شيكات بنوك وفروع واردة للتحصيل,ledgerCode,Check clients for collection 
+Medium,45,وديعة متحركة,ledgerCode,Checks and incomplete branches 
+Medium,46,ودائع لاجل متحركة/غير مقيم,ledgerCode,Animation 
+Medium,47,وديعة ثابتة,ledgerCode,Deposits for animated / non-resident 
+Medium,48,أمانات ودائع عملاء لأغراض الإقامة,ledgerCode,Fixed deposit 
+Medium,4813,أسهم عملاء لدينا/وحفظها لحساب العميل,ledgerCode,Customer depositors for accommodation 
+Medium,4817,اسناد قرض شركة بندار للتجارة والاستثمار,ledgerCode,Our clients shares / and save them to calculate the client 
+Medium,5304,أصحاب شيكات عملاء مرسلة للتحصيل,ledgerCode,Bandar's loan for trade and investment 
+Medium,54,وديعة ثابتة,ledgerCode,Holders check customers for collection 
+Medium,55,وديعة متحركة,ledgerCode,Fixed deposit 
+Medium,5817,مشتركي اسناد قرض شركة بندار للتجارة,ledgerCode,Animation 
+Medium,71,تأمينات التبادل بالعملة الأجنبية/عملاء,ledgerCode,Pendar Trading Loan 
+Medium,72,تأمينات عمليات تبادل العملات,ledgerCode,Foreign currency exchange insurance / clients 
+Customer_Class,0,لايوجد,CUS_CLASS,
+Customer_Class,1,جواز سفر,CUS_CLASS,Ahpe 
+Customer_Class,15,اخرى,CUS_CLASS,passport 
+Customer_Class,2,هوية احوال مدنية,CUS_CLASS,Other 
+Customer_Class,3,دفتر عائلة,CUS_CLASS,Civil conditions identification 
+Customer_Class,4,سجل تجاري,CUS_CLASS,Family notebook 
+Customer_Class,5,رخصة مهن,CUS_CLASS,Commercial Record 
+Customer_Class,50,CHAIRMAN,CUS_CLASS,Careers license 
+Customer_Class,51,MEMBER OF THE BOARD,CUS_CLASS,CHAIRMAN 
+Customer_Class,52,GENERAL MANAGER,CUS_CLASS,MEMBER OF THE BOARD 
+Customer_Class,54,SHAREHOLDER,CUS_CLASS,GENERAL MANAGER 
+Customer_Class,6,رخصة تأسيس,CUS_CLASS,SHAREHOLDER 
+Customer_Class,60,الشركات التابعة للمصرف,CUS_CLASS,Establishment license 
+Customer_Class,61,الشركات الشقيقة للمصرف,CUS_CLASS,Banking companies 
+Customer_Class,62,حقوق الاقلية للمصرف,CUS_CLASS,The sister companies for the bank 
+Customer_Class,63,الشركات التابعة للشركات التابعه,CUS_CLASS,The minority rights of the bank 
+Customer_Class,64,الشركات الشقيقة للشقيقة للمصرف,CUS_CLASS,Companies affiliated with companies 
+Customer_Class,65,حصص الاقلية للحصص الاقلية,CUS_CLASS,The sister companies for the sister for the bank 
+Customer_Class,7,وثيقة سفر,CUS_CLASS,Many minority quotas 
+Customer_Class,90,شركاء في شركة الوساطة,CUS_CLASS,passport 
+Customer_Class,91,أزواج/زوجات الشركاء,CUS_CLASS,Partners in brokerage company 
+Customer_Class,92,أولاد/بنات الشركاء,CUS_CLASS,Pairs / Wives Partners 
+Customer_Class,93,موظفين في شكركة الوساطة,CUS_CLASS,Children / Girls Partners 
+Customer_Class,94,أزواج/زوجات الموظفين,CUS_CLASS,Employees in Brokerage Company 
+Customer_Class,95,أولاد/بنات الموظفين,CUS_CLASS,Pairs / wives staff 
+Customer_Class,96,OTHER COMPANIES,CUS_CLASS,Sons / Girls Staff 
+High,124,استخراج البترول الخام والغاز الطبيعي,ECO_SEC,
+High,148,صناعة مشتقات البترول المكررة,ECO_SEC,Extraction of crude oil and natural gas 
+High,150,صناعة الاسمدة ومركبات النيتروجين,ECO_SEC,Duplicate petroleum products 
+High,197,صناعة المجوهرات,ECO_SEC,Fertilizer and Nitrogen Vehicles 
+High,219,بيع السيارات,ECO_SEC,Jewelry Industry 
+High,321,جمعيات التسليف التعاونيه,ECO_SEC,Car Sale 
+High,322,شركات الرهن العقاري,ECO_SEC,Cooperative Credit Associations 
+High,323, شركات الاقراض المؤسسات الماليه,ECO_SEC,Mortgage Companies 
+High,324,شركات التأجير التمويلي,ECO_SEC,Lending Companies Financial Institutions 
+High,325,خدمات مالية اخرى,ECO_SEC,Leasing companies 
+High,326,شركات الأسهم والوساطه الماليه,ECO_SEC,Other Financial Services 
+High,327,شراء الأسهم بغرض المضاربه,ECO_SEC,Stock and financial services companies 
+High,328,شراء الأسهم للغير,ECO_SEC,Buy stocks for speculation 
+High,337,بطاقات ائتمانية,ECO_SEC,Buy shares for others 
+High,348,استخراج النفط والغاز الطبيعي,ECO_SEC,Credit cards 
+High,388,الصرافه,ECO_SEC,Extraction of oil and natural gas 
+High,390,المؤسسات الماليه العامله في تجارة الأسهم,ECO_SEC,exchange money 
+High,391,المضاربون,ECO_SEC,Financial institutions working in stock trade 
+High,392,الوسطاء الماليون,ECO_SEC,Speculators 
+High,395,بطاقات ائتمانية,ECO_SEC,Financial Brokers 
+High,397,الأسهم,ECO_SEC,Credit cards 
+High,42,تجارة السيارات وقطع غيارها,ECO_SEC,Stock 
+High,48,شركات الصرافة,ECO_SEC,Car trade and spare parts 
+High,65,مكاتب السياحة والسفر,ECO_SEC,Exchange companies 
+High,72,المضاربون (تمويل شراء أسهم),ECO_SEC,Travel and tourism offices 
+High,73,بيوت الخصم,ECO_SEC,Speculators (financing stock shares) 
+High,74,الشركات المالية الاخرى,ECO_SEC,Discount houses 
+Low,0,لا يوجد,ECO_SEC,Other financial companies 
+Low,1,مالية عامة,ECO_SEC,There is no 
+Low,10,"حمضيات, فواكه,قمح, حبوب اخرى, خضار",ECO_SEC,General Finance 
+Low,11,الزيتون والتبغ,ECO_SEC,"Citrus, fruit, wheat, other grains, vegetables "
+Low,12,المواشي والدواجن والاسماك والنحل,ECO_SEC,Olive and tobacco 
+Low,123,,ECO_SEC,"Livestock, poultry, fish and bees "
+Low,125,مقالع الحجارة والرمل والطين والرخام,ECO_SEC,male 
+Low,126,استخراج المعادن والاسمدة الكيميائية,ECO_SEC,"Stones, stones, sand, marble "
+Low,127,انتاج وحفظ اللحوم ومشتقاتها,ECO_SEC,Metal extract and chemical fertilizer 
+Low,128,حفظ الفواكه والخضار,ECO_SEC,Production and conservation of meat and derivatives 
+Low,129,صناعة الدهون النباتية والحيوانية,ECO_SEC,Save fruits and vegetables 
+Low,13,الصناعات الزراعية (داخل المزرعة),ECO_SEC,Plant and animal fat industry 
+Low,130,صناعة منتجات الألبان و مشتقاتها,ECO_SEC,Agricultural Industries (inside the farm) 
+Low,131,صناعة الحبوب المطحونة,ECO_SEC,Manufacture of dairy products and derivatives 
+Low,132,صناعة اغذية الحيوانات,ECO_SEC,Refted grain industry 
+Low,133,صناعة المعجنات ومشتقاتها,ECO_SEC,Animal Food Industry 
+Low,134,تقطير المشروبات الروحية,ECO_SEC,Pastry industry and derivatives 
+Low,135,صناعة شراب الشعير,ECO_SEC,Flying spirits 
+Low,136,صناعة العصائر والمياه المعدنية,ECO_SEC,Barley 
+Low,137,غزل وحياكة الخيوط المنسوجة,ECO_SEC,Juices and metal water industry 
+Low,138,صناعة البسط والسجاد,ECO_SEC,Yarn and knitting woven thread 
+Low,139,صناعة المنسوجات الاخرى,ECO_SEC,Manufacture of rugs and carpets 
+Low,14,تجارة المنتوجات الزراعية وتسويقها,ECO_SEC,Other textile industry 
+Low,140,صناعة الكروشيه واللوحات الفنية,ECO_SEC,Trading and marketing of agricultural products 
+Low,141,صناعة الملابس الجاهزة ما عدا الفرو,ECO_SEC,Crochet industry and art paintings 
+Low,142,صناعة الحاويات الخشبية,ECO_SEC,Ready-made garment industry except fur 
+Low,143,صناعة الفلين والقش,ECO_SEC,Wooden container industry 
+Low,144,صناعة الورق المجعد وحاويات الورق الكرتون,ECO_SEC,Cork and straw industry 
+Low,146,الطباعة,ECO_SEC,Curly paper industry and cardboard containers 
+Low,147,الخدمات المرتبطة بالطباعة,ECO_SEC,printing 
+Low,149,صناعة كيماويات اساسية عدا اسمدة نيتروجين,ECO_SEC,Services related to printing 
+Low,15,تجارة المواد الزراعية ومعداتها,ECO_SEC,Manufacture of basic chemicals except for nitrogen fertilizers 
+Low,151,صناعة البلاستيك الخام والمطاط الصناعي,ECO_SEC,Agricultural and agricultural materials 
+Low,152,صناعة المبيدات الحشرية,ECO_SEC,Raw plastic industry and industrial rubber 
+Low,153,صناعة الدهان والورنيش حبر ومعجون الطباعة,ECO_SEC,Industrial pesticide 
+Low,154,صناعة الادوية والعقاقير الطبية,ECO_SEC,Paint industry and varnish ink and printing 
+Low,155,صناعة الصابون والمنظفات والعطور,ECO_SEC,Medical and Drug Industry 
+Low,156,صناعة المنتجات الكيماوية الاخرى,ECO_SEC,"Soap industry, detergents and perfumes "
+Low,157,صناعة الاطارات والدواليب,ECO_SEC,Other chemical products industry 
+Low,158,صناعة المنتجات المطاطية الاخرى,ECO_SEC,Tire and roller industry 
+Low,159,صناعة المنتجات البلاستيكية,ECO_SEC,Industrial and other rubber products 
+Low,16,منتجات زراعية اخرى (من ضمنها المشاتل ),ECO_SEC,Manufacture of plastic products 
+Low,160,صناعة الزجاج ومشتقاته,ECO_SEC,Other agricultural products (including nurseries) 
+Low,161,صناعة السيراميك الخام,ECO_SEC,Glass industry and derivatives 
+Low,162,صناعة منتجات الفخار والسيراميك,ECO_SEC,Raw ceramic industry 
+Low,163,صناعة الاسمنت والجير والجبص,ECO_SEC,Manufacture of pottery and ceramic products 
+Low,164,صناعة ألواح الاسمنت والجبص,ECO_SEC,"Cement, lime and clutch industry "
+Low,165,تقطيع وتشكيل الحجارة,ECO_SEC,Cement and cement panels 
+Low,166,صناعة المنتجات غير المعدنية الاخرى,ECO_SEC,Cutting and forming stones 
+Low,167,صناعة المعادن الثمينة غير القابلة للصدأ,ECO_SEC,Industrial non-metallic products 
+Low,168,صب الحديد والفولاذ,ECO_SEC,The precious metal industry is not stainless 
+Low,169,صناعة المعادن غير الحديد,ECO_SEC,Casting iron and steel 
+Low,17,استصلاح الاراضي,ECO_SEC,Non-iron metal industry 
+Low,170,صناعة التنكات والحاويات المعدنية,ECO_SEC,Land Reclamation 
+Low,171,معالجة وطلاء المعادن,ECO_SEC,Mineral and metal container industry 
+Low,172,صناعة سكاكين ومعدات يدوية وادوات معدنية,ECO_SEC,Treatment and metal coating 
+Low,173,صناعة المنتجات المعدنية الاخرى,ECO_SEC,"Manufacture of knives, hand tools and metal tools "
+Low,174,صناعة الروافع ومعدات النقل,ECO_SEC,Industrial Metal Products 
+Low,175,صناعة الالات متعددة الاستخدامات,ECO_SEC,Manufacture of winches and transport equipment 
+Low,176,صناعة الالات الزراعية والحرجية,ECO_SEC,Multi-usable machinery industry 
+Low,177,صناعة معدات الالات,ECO_SEC,Agricultural and fragmentation industry 
+Low,178,صناعة آلات الحفر واستخراج الحجارة,ECO_SEC,Machinery Industry 
+Low,179,صناعة ماكنات حفظ اغذية ومشروبات وتبغ,ECO_SEC,Manufacture of drilling machines and extract stones 
+Low,180,صناعة الالات ذات الاستخدامات الخاصة,ECO_SEC,Machine tools and drinks and drinks 
+Low,181,صناعة التجهيزات المنزلية,ECO_SEC,Machinery of special uses 
+Low,182,صناعة ماتورات مولدات والمحولات كهربائية,ECO_SEC,Household equipment industry 
+Low,183,صناعة موزعات الكهرباء ومعدات المراقبة,ECO_SEC,Manufacture of generators and electric transformers 
+Low,184,صناعة الأسلاك والكوابل المعزولة,ECO_SEC,Manufacture of electricity dispensers and surveillance equipment 
+Low,185,صناعة الأسلاك والكوابل المعزولة,ECO_SEC,Wire industry and isolated cable 
+Low,186,صناعة البطاريات,ECO_SEC,Wire industry and isolated cable 
+Low,187,صناعة اللمبات الكهربائية ومعدات الانارة,ECO_SEC,Battery Industry 
+Low,189,صناعة الراديو والتلفزيون وأجهزة الفيديو,ECO_SEC,Electrical lamps and lighting equipment 
+Low,190,صناعة الادوات طبية وجراحية وتجبير الكسور,ECO_SEC,Industry and radio and video devices 
+Low,191,صناعة معدات بصرية ومعدات تصويرفوتوغرافي,ECO_SEC,"Medical, surgical and surgical tools "
+Low,192,صناعة هياكل السيارات,ECO_SEC,Manufacture of visual equipment and photographic equipment 
+Low,193,صناعة القاطرات والمقطورات,ECO_SEC,Auto structures industry 
+Low,194,صناعة محركات وقطع وتجهيزات السيارات,ECO_SEC,Industrial locomotives and trailers 
+Low,195, بناء وصيانة القوارب واليخوت والطائرات,ECO_SEC,"Manufacture of engines, cutting and automotive equipment "
+Low,196,صناعة معدات النقل الاخرى,ECO_SEC,"Building and maintenance of boats, yachts and aircraft "
+Low,198,صناعة الادوات الموسيقية,ECO_SEC,Other transport equipment industry 
+Low,199,الصناعات الاخرى,ECO_SEC,Musical instruments industry 
+Low,2,عامة اخرى,ECO_SEC,Other Industries 
+Low,20,"فوسفات, بوتاس, نحاس, ومعادن اخرى",ECO_SEC,Other general 
+Low,200,انتاج وتجميع وتوزيع الكهرباء,ECO_SEC,"Phosphate, potas, copper, and other minerals "
+Low,201,انتاج وتعبئة وتوزيع الغاز,ECO_SEC,"Production, assembly and distribution of electricity "
+Low,202,انتاج وتعبئة الماء,ECO_SEC,"Production, packaging and distribution of gas "
+Low,203,عصر وتعليب الزيتون,ECO_SEC,Production and mobilization of water 
+Low,204,تعليب المنتجات الزراعيه,ECO_SEC,Olive and era era 
+Low,205,مؤسسات خاصه وشركات ومكاتب عقاريه,ECO_SEC,Packing agricultural products 
+Low,206,تجهيز موقع البناء,ECO_SEC,"Special institutions, companies and offices "
+Low,207,انشاء المباني واعمال الهندسة المدنية,ECO_SEC,Construction site 
+Low,208,تجهيز المباني,ECO_SEC,Construction of buildings and civil engineering works 
+Low,209,تشطيب المباني,ECO_SEC,Processing of buildings 
+Low,210,تأجير المعدات الانشائية,ECO_SEC,Finishing buildings 
+Low,211,انشاء طرق و الجسور,ECO_SEC,Rental of construction equipment 
+Low,212,الجمعيات التعاونيه الإسكانيه,ECO_SEC,Construction of roads and bridges 
+Low,213,شراء أراضي وابنيه بغرض البيع والتأجير,ECO_SEC,Cooperative Associations 
+Low,214,شراء اراضي وابنيه,ECO_SEC,Purchase of land and professions for sale and rent 
+Low,215,بيع بالجملة للموادغذائية ومشروبات والتبغ,ECO_SEC,Purchase of land and capacity 
+Low,216,بيع المفرق في ألاغذية والمشروبات والتبغ,ECO_SEC,"Sell wholesale for solids, drinks and tobacco "
+Low,217,بيع مفرق اغذية ومشروبات تبغ للمحلات مخصص,ECO_SEC,"Selling Mafraq in Alam, Drinks and Tobacco "
+Low,218,تجارة اللحوم والدواجن والأسماك,ECO_SEC,Sell junction food and beverage for custom shops 
+Low,220,صيانة وتجهيز السيارات,ECO_SEC,"Trading meat, poultry and fish "
+Low,221,بيع قطع غيار السيارات,ECO_SEC,Maintenance and processing of cars 
+Low,222,بيع وصيانة الدراجات وقطع غيارها,ECO_SEC,Sell Auto Parts 
+Low,223,البيع بالجملة للآلات والمعدات والتجهيزات,ECO_SEC,Sell and maintenance of cycling and spare parts 
+Low,224,البيع بالجملة لمواد البناءو تدفئة و تكيف,ECO_SEC,"Wholesale machinery, equipment and fittings "
+Low,225,البيع بالجملة للمواد المستعملة والسكراب,ECO_SEC,Wholesale Buying Materials Heating and Adaptation 
+Low,226,بيع مفرق أدوات كهربائيه وتجهيزات منزلية,ECO_SEC,Wholesale Used materials and jacket 
+Low,227,البيع بالجملة للبضائع المنزلية الاخرى,ECO_SEC,Sell Junction Electrical Tools and Home Appliances 
+Low,228,صيانة الادوات المنزلية والشخصية,ECO_SEC,Wholesale other household goods 
+Low,229,تجارة الاثاث,ECO_SEC,Maintenance of household and personal tools 
+Low,230,تجارة اجهزة الكمبيوتر و مستلزماتها,ECO_SEC,Furniture trade 
+Low,231,بيع بالجملة لمواد خام زراعيةحيوانات حية,ECO_SEC,Computer and accessories trade 
+Low,233,بيع بالجملة لوقود س وص والغاز ومشتقاتها,ECO_SEC,Wholesale raw materials agricultural animals 
+Low,234,البيع بالجملة للمعادن وخاماتها,ECO_SEC,"Wholesale for fuel, gas and their derivatives "
+Low,235,بيع مفرق للأدوات المعدنية دهان والزجاج,ECO_SEC,Wholesale for metals and raw materials 
+Low,237,تجارة الاعلاف,ECO_SEC,Sell junction for metal tools and glass paint 
+Low,238,البيع بالجملة لمنسوجات وملابس والاحذية,ECO_SEC,Feed trade 
+Low,239,ب مفرق منسوجات،ملابس،احذية ومنتجات جلدية,ECO_SEC,"Wholesale for textiles, clothing and shoes "
+Low,24,الاقمشة والاجواخ والملبوسات الصوفية,ECO_SEC,"B, Textiles, Clothing, Shoes and Leather Products "
+Low,240,بيع مفرق مواد طبية و ادوية ومواد تجميلية,ECO_SEC,"Fabrics, cottages and woolen clothes "
+Low,241, تجارة شركات مواد البناء والأدوات الصحيه,ECO_SEC,"Selling the junction of medical, medicines and cosmetics "
+Low,242,البيع بالجملة مقابل عقد,ECO_SEC,Trading of building materials and health items 
+Low,243,بيع المفرق في الاسواق,ECO_SEC,Wholesale vs contract 
+Low,244,بيع مفرق في اماكن غير المحلات التجارية,ECO_SEC,Sell retail in markets 
+Low,245,بيع المفرق للمواد المستعملة في المحلات,ECO_SEC,Sell junction in non-shop places 
+Low,246,البيع بالجملة للمنتجات الاخرى,ECO_SEC,Sell Al Mafraq Used Materials in Shops 
+Low,247,تجارة الادوات الرياضية,ECO_SEC,Wholesale other products 
+Low,248,تجارة البواخر والقوارب وصيانتها,ECO_SEC,Trade Sports Tools 
+Low,249,تجارة الادوات الزراعية,ECO_SEC,Commerce and maintenance of boats 
+Low,25,الحقائب والصناعات الجلدية الاخرى,ECO_SEC,Agricultural Tools Trade 
+Low,250,تجارة الطائرات صيانتها,ECO_SEC,Other leather bags and industries 
+Low,251,النقل الجوي (ركاب),ECO_SEC,Trade aircraft maintenance 
+Low,252,النقل الجوي (بضائع),ECO_SEC,Air Transport (Passengers) 
+Low,253,النقل بواسطة السكك الحديديه,ECO_SEC,Air Transport (Goods) 
+Low,254,نقل مسافرين برا,ECO_SEC,Transport by rail 
+Low,256,نقل بضائع برا,ECO_SEC,Transfer of travelers land 
+Low,257,نقل مسافرين بحرا,ECO_SEC,Transportation of goods by land 
+Low,258,الموانئ,ECO_SEC,Transfer of travelers by sea 
+Low,259,وكلاء النقل والشحن,ECO_SEC,Ports 
+Low,26,الادوات الكهربائية والرافعات والمصاعد,ECO_SEC,Transport and shipping agents 
+Low,260, خدمات النقل للمخازن والمستودعات,ECO_SEC,"Electrical tools, cranes and lifts "
+Low,261,البريد,ECO_SEC,Transportation services for stores and warehouses 
+Low,262,الضيافة خلال فترة اقامة قصيرة في الفندق,ECO_SEC,Mail 
+Low,263,المطاعم ، البار والكفتيريا,ECO_SEC,Hospitality during a short stay at the hotel 
+Low,264,بناء /توسعة/صيانة الفنادق,ECO_SEC,"Restaurants, bar and kettle "
+Low,265,تأجير معدات النقل,ECO_SEC,Construction / Expansion / Maintenance of hotels 
+Low,266,تأجير الالات والمعدات الزراعية,ECO_SEC,Rental of transport equipment 
+Low,267,تأجير الات ومعدات بناء وهندسةمدنية,ECO_SEC,Rental of agricultural machinery and equipment 
+Low,268,تأجير الالات والمعدات الاخرى,ECO_SEC,Rental of construction machinery and equipment 
+Low,269,تأجير الادوات المنزلية والشخصية,ECO_SEC,Hire machines and other equipment 
+Low,27,الاسفنج ومحارم الورق,ECO_SEC,Hire household and personal tools 
+Low,270,تأجير السيارات,ECO_SEC,Sponge and papers 
+Low,271,استشارات البرمجة,ECO_SEC,Car Rental 
+Low,272,صيانة الاجهزة المكتبية والكمبيوترات,ECO_SEC,Programming consulting 
+Low,273,خدمات الكمبيوتر الاخرى,ECO_SEC,Maintenance of office equipment and computers 
+Low,274,بحث وتطوير في علوم طبيعية وهندسة,ECO_SEC,Other computer services 
+Low,275,الخدمات القانونية,ECO_SEC,Search and development in natural sciences and engineering 
+Low,276,المحاسبة والتدقيق والاستشارات الضريبية,ECO_SEC,Legal services 
+Low,277,الابحاث والاستبيانات,ECO_SEC,"Accounting, auditing and tax consulting "
+Low,278,الاستشارات الادارية,ECO_SEC,Research and questionnaires 
+Low,279,الاستشارات الهندسية والفنية,ECO_SEC,Administrative consulting 
+Low,28,صناعات وسيطة اخرى,ECO_SEC,Engineering and technical consulting 
+Low,280,الفحص والتحليل الفني,ECO_SEC,Other intermediate industries 
+Low,281,الدعاية,ECO_SEC,Scan and technical analysis 
+Low,282,التوظيف وتعيين الكفاءات,ECO_SEC,Hype 
+Low,283,الامن والتفتيش,ECO_SEC,Employment and appointment of competencies 
+Low,284,خدمات التنظيف,ECO_SEC,Security and inspection 
+Low,285,التصوير الفوتوغرافي,ECO_SEC,Cleaning services 
+Low,286,خدمات التغليف,ECO_SEC,photographer 
+Low,287,الاستشارات القانونية,ECO_SEC,Packaging services 
+Low,288,الخدمات الاخرى,ECO_SEC,Legal advice 
+Low,289,شركات التخليص و النقل,ECO_SEC,Other services 
+Low,29,معادن أخرى,ECO_SEC,Clearance and transport companies 
+Low,290,انتاج وتوزيع الفيديو,ECO_SEC,Other metals 
+Low,291,انتاج الصور المتحركة,ECO_SEC,Production and distribution of video 
+Low,292,الراديو والتلفزيون,ECO_SEC,Production of animation 
+Low,293,الفنون الدرامية والموسيقى,ECO_SEC,Radio and TV 
+Low,294,النشاطات الترفيهية الاخرى,ECO_SEC,Drama and music arts 
+Low,295,وكالات الاخبار,ECO_SEC,Other recreational activities 
+Low,296,نشاطات الاستجمام الاخرى,ECO_SEC,News Agencies 
+Low,297,النوادي الرياضية,ECO_SEC,Other Recreation Activities 
+Low,298,غسيل وتجفيف المنسوجات والفراء,ECO_SEC,Sports clubs 
+Low,299,تصفيف الشعر والتجميل,ECO_SEC,Washing and drying textiles and fur 
+Low,30,تجارة مواد البناء دهانات،بلاط،أدوات صحية,ECO_SEC,Hairdressing and beauty 
+Low,300,خدمات الجنائز,ECO_SEC,"Commercial Building Materials Paints, Tiles, Sanitaryware "
+Low,301,التعليم الاساسي,ECO_SEC,Services of fans 
+Low,302,التعليم الثانوي,ECO_SEC,the basic education 
+Low,303,التعليم الثانوي المهني والصناعي,ECO_SEC,high school 
+Low,304,التعليم العالي,ECO_SEC,Professional and industrial secondary education 
+Low,305,الخدمات التعليمية الاخرى,ECO_SEC,Higher Education 
+Low,306,  المستشفيات والصيدليات,ECO_SEC,Other educational services 
+Low,307,الطب العام والاسنان,ECO_SEC,Hospitals and pharmacies 
+Low,308,الخدمات الصحية الاخرى,ECO_SEC,General Medicine and Years 
+Low,309,الخدمات البيطرية,ECO_SEC,Other Health Services 
+Low,31,الصناعات الزراعية (خارج المزرعة),ECO_SEC,Veterinary services 
+Low,310,المختبرات الطبية و الاشعة,ECO_SEC,Agricultural Industries (Out of Farm) 
+Low,311,معدات طبية/تجاري ميديكل,ECO_SEC,Medical and radiation laboratories 
+Low,312,عيادات طبية/تجاري ميديكل,ECO_SEC,Medical / Commercial Medicine Equipment 
+Low,313,شركة المياه,ECO_SEC,Medical / Commercial Medicine Clinics 
+Low,314,شركه الكهرباء,ECO_SEC,Water Company 
+Low,315,طاقة متجددة,ECO_SEC,Electricity Company 
+Low,316,الشركات العامله بالإتصالات,ECO_SEC,Renewable energy 
+Low,317,الهيئات الدينيه,ECO_SEC,Companies working for communications 
+Low,318,الهيئات الخيريه,ECO_SEC,Religious bodies 
+Low,319,الشركات العامله بالصرافه,ECO_SEC,Charitable bodies 
+Low,32,صناعة الأثاث والمفروشات وأدوات المنزل,ECO_SEC,Companies working by client 
+Low,320,البنوك,ECO_SEC,"Furniture industry, furnishings and household items "
+Low,329,السيارات الشخصيه,ECO_SEC,Banks 
+Low,33,الصناعات الغذائية ومصانع الحلويات,ECO_SEC,Personal cars 
+Low,330,السلع المعمره,ECO_SEC,Food industries and sweets factories 
+Low,331,سلع اخرى,ECO_SEC,Goods 
+Low,332,التعليم,ECO_SEC,Other goods 
+Low,333,العنايه الطبيه,ECO_SEC,Education 
+Low,334,سلف شخصيه بضمان رواتب محوله,ECO_SEC,Medical care 
+Low,335,سلف شخصيه بضمان رواتب  غيرمحوله,ECO_SEC,Personal advances by guarantee salaries 
+Low,336,سلف شخصية بضمان تأمينات نقدية,ECO_SEC,Personal advances by guarantee 
+Low,338,شراء عقارات لأغراض السكن,ECO_SEC,Personal advances guarantee cash insurance 
+Low,339,شراء الابنيه للصيانه / التوسعه / التحسين,ECO_SEC,Buy real estate for housing purposes 
+Low,34,صناعة التبغ والمشروبات الروحية,ECO_SEC,Purchase of self-finance / expansion / improvement 
+Low,340,بناء مساكن,ECO_SEC,Tobacco industry and spirits 
+Low,341,المؤسسات الحكوميه,ECO_SEC,Building housing 
+Low,342,الوزارات,ECO_SEC,Governmental institutions 
+Low,343,الهيئات العامه الحكوميه,ECO_SEC,Ministries 
+Low,344,المؤسسات شبه الحكوميه,ECO_SEC,Government General Authorities 
+Low,345,كفاله الحكومه,ECO_SEC,Semi-government institutions 
+Low,346,زراعة مروية,ECO_SEC,Guaranteed government 
+Low,347,زراعة تقليدية (غير مروية),ECO_SEC,Myroid cultivation 
+Low,349,المناجم ومقالع الحجارة,ECO_SEC,Traditional cultivation (non-irrigated) 
+Low,35,صناعة الالمنيوم والحديد والمعادن,ECO_SEC,Mines and quarries 
+Low,350,صناعة المنتجات الغذائية والمشروبات,ECO_SEC,"Aluminum, iron and metal industry "
+Low,351,صناعة منتجات التبغ,ECO_SEC,Food and beverage products industry 
+Low,352,تصنيع المنسوجات,ECO_SEC,Manufacture of tobacco products 
+Low,353,صناعة ودباغة الملابس الجاهزة,ECO_SEC,Textile Manufacturing 
+Low,354,دباغة الجلود وتصنيع الحقائب والاحذية,ECO_SEC,Manufacture and tanning garments 
+Low,355,الصناعات الخشبية والفلينية عدا الاثاث,ECO_SEC,Tanning leather and manufacturing bags and shoes 
+Low,356,صناعة الورق والمنتجات الورقية,ECO_SEC,Wood and Filing Industries except furniture 
+Low,357,نشر وطباعة واعادة انتاج وسائل الاعلام,ECO_SEC,Paper and paper products 
+Low,358,صناعة الفحم ومشتقات البترول المكررة,ECO_SEC,"Publish, print and re-produce media "
+Low,359,صناعة الكيماويات ومشتقاتها,ECO_SEC,Coal industry and duplicate petroleum products 
+Low,36,صناعة الورق,ECO_SEC,Chemical industry and derivatives 
+Low,360,صناعة المنتجات البلاستيكية والمطاطية,ECO_SEC,Paper Industry 
+Low,361,صناعة المنتجات غير المعدنية,ECO_SEC,Manufacture of plastic and rubber products 
+Low,362,صناعة المعادن,ECO_SEC,Industrial products non-metallic 
+Low,363,صناعة منتجات معدنية دون الآلات والمعدات,ECO_SEC,Metal industry 
+Low,364,صناعة الآلات والمعدات,ECO_SEC,Manufacture of metal products without machinery and equipment 
+Low,365,صناعة الادوات الكهربائية,ECO_SEC,Machinery and equipment industry 
+Low,366,صناعة اجهزة راديو وتلفزيون وسائل اتصال,ECO_SEC,Electrical Tools Industry 
+Low,367,صناعات طبية، المعدات البصرية والساعات,ECO_SEC,Manufacture of radio and television equipment 
+Low,368,صناعة السيارات ، القاطرات والمقطورات,ECO_SEC,"Medical Industries, Optical Equipment and Watches "
+Low,369,صناعة وسائل النقل الاخرى,ECO_SEC,"Automotive industry, locomotives and trailers "
+Low,37,صناعات تحويلية اخرى,ECO_SEC,Other transportation industry 
+Low,370,صناعة الاثاث والصناعات الاخرى,ECO_SEC,Other transformations 
+Low,371,الجمعيات التعاونيه الإسكانيه,ECO_SEC,Furniture industry and other industries 
+Low,372,شراء أراضي وابنيه,ECO_SEC,Cooperative Associations 
+Low,373,ت مواد غ وتبغ ومشروبات كحوليه وغازيه,ECO_SEC,Buy land and profession 
+Low,374,تجارة المعدات والالات,ECO_SEC,"Materials, dye and behavior and gas "
+Low,375,تجارة مواد الكهربائيه والمنزليه و الاثاث,ECO_SEC,Trade equipment and machinery 
+Low,376,تجارة المواد الأوليه,ECO_SEC,"Trading of electrical, household and furniture "
+Low,377,تجارة الأدويه ومواد تجميل ومواد كيماويه,ECO_SEC,Trade of primary materials 
+Low,378,تجارة المستلزمات الاخرى,ECO_SEC,"Pharmaceutical trade, beauty materials and chemicals "
+Low,379,خدمات النقل الإضافي والمساعده,ECO_SEC,Other supplies trade 
+Low,380,خدمات البريد,ECO_SEC,Additional and assistant transport services 
+Low,381,الفنادق والمطاعم,ECO_SEC,Postal Services 
+Low,382,تأجير الات ومعدات وادوات منزلية وشخصية,ECO_SEC,Hotels and restaurants 
+Low,383,خدمات الكمبيوتر,ECO_SEC,"Hire machinery, equipment, household and personal tools "
+Low,384,البحث والتطوير,ECO_SEC,computer Services 
+Low,385,خدمات الاعمال الاخرى,ECO_SEC,research and development 
+Low,386,الرياضة والثقافة والاستجمام,ECO_SEC,Other Business Services 
+Low,387,الإتصالات السلكيه واللاسلكيه,ECO_SEC,"Sports, culture and recreation "
+Low,389,شركات الإقراض,ECO_SEC,wired and wireless communication 
+Low,39,الغزل والنسيج,ECO_SEC,Lending companies 
+Low,393,بهدف شراء أدوات ملموسه,ECO_SEC,Textile 
+Low,394,بهدف شراء خدمه,ECO_SEC,With a view to buying tangible tools 
+Low,396,شراء عقارات لأغراض السكن,ECO_SEC,With a view to buying a service 
+Low,398,الزراعه بدون وسائل الري (بعل),ECO_SEC,Buy real estate for housing purposes 
+Low,399, صناعة كاكاو وشوكولاته وحلويات وخبز,ECO_SEC,Agriculture without irrigation methods (Baal) 
+Low,40,تجارة المواد الغذائية,ECO_SEC,"Cocoa and chocolate industry, sweets and bread "
+Low,400,صناعة المنتجات الغذائية الاخرى,ECO_SEC,Food trade 
+Low,401,صناعة منتجات التبغ,ECO_SEC,Industrial food products 
+Low,402,صناعة الاقمشة الجاهزة عدا الملابس,ECO_SEC,Manufacture of tobacco products 
+Low,403,صناعة حقائب السفرواليد والسروج,ECO_SEC,Manufacture of ready-made fabrics except clothing 
+Low,404,صناعة الاحذية,ECO_SEC,Manufacture of travel and bridging bags 
+Low,405,نشروتسطيح الاخشاب,ECO_SEC,Shoe manufacturing 
+Low,406,صناعة الألواح الخشبية المختلفة,ECO_SEC,Publish the wood 
+Low,407,صناعة أخشاب النجارة والبناء,ECO_SEC,Different wood panels industry 
+Low,408,صناعة منتجات ورقية وكرتونية اخرى,ECO_SEC,Manufacture of woodworking and construction 
+Low,409,زراعه حمضيات فواكه وقمح وحبوب( ري حديثه),ECO_SEC,Industrial and other paper products 
+Low,410,البيع المفرق في المحلات غير المتخصصة,ECO_SEC,"Citizen agriculture, fruit and grain (irritation) "
+Low,411,بيع مفرق لمواد اخرى في المحلات المتخصصة,ECO_SEC,Selling retail in non-specialized shops 
+Low,43,تجارة الالات والعدد والادوات الكهربائية,ECO_SEC,Sell junction for other materials in specialized shops 
+Low,44,تجارة الاقمشة والملبوسات والاحذية,ECO_SEC,"Trading machines, number and electrical tools "
+Low,45,تجارة الادوية والمواد الكيماوية والطبية,ECO_SEC,"Trade fabrics, clothing and shoes "
+Low,46,نشاطات تجارية اخرى,ECO_SEC,"Trading, chemical and medical supplies "
+Low,47,خدمات سياحية أخرى,ECO_SEC,Other Commercial Activities 
+Low,49,جهات أخرى,ECO_SEC,Other tourism services 
+Low,5,البلديات والمجالس القروية,ECO_SEC,Other sides 
+Low,50,المؤسسات الخاصة والشركات ومكاتب العقار,ECO_SEC,Municipalities and village councils 
+Low,51,شركات التعهدات والانشاءات,ECO_SEC,"Private enterprises, companies and property offices "
+Low,52,شركات مواد البناء والادوات الصحية,ECO_SEC,Companies for pledges and construction 
+Low,53,جمعيات الاسكان التعاونية,ECO_SEC,Building materials and sanitary ware companies 
+Low,54,الملبوسات الجاهزة,ECO_SEC,Cooperative Housing Associations 
+Low,55,الدباغة والجلود ومشتقاتها,ECO_SEC,Prefabricated clothes 
+Low,56,السكك الحديدية والنقل البري,ECO_SEC,Tanning leather and derivatives 
+Low,57,النقل الجوي,ECO_SEC,Railway and land transport 
+Low,58,الموانئ والنقل البحري,ECO_SEC,Air transport 
+Low,59,مشاريع الإسكان,ECO_SEC,Ports and maritime transport 
+Low,6,منتجات زراعية أخرى من ضمنها المشاتل,ECO_SEC,Housing Projects 
+Low,60,المياه والطاقة الكهربائية,ECO_SEC,Other agricultural products including nurseries 
+Low,61,الاتصالات السلكية واللاسلكية,ECO_SEC,Water and electric power 
+Low,62,المؤسسات التعليمية والصحية والثقافية,ECO_SEC,wired and wireless communication 
+Low,63,الهيئات الدينية والخيرية,ECO_SEC,"Educational, health and cultural institutions "
+Low,64,بناء المجمعات التجارية,ECO_SEC,Religious and charitable bodies 
+Low,66,المشاريع و العطاءات الخدمية بمستخلصات,ECO_SEC,Building commercial complexes 
+Low,67,الأحذية (عدا المطاطية والبلاستيكية),ECO_SEC,Projects and bidding 
+Low,68,منتجات الأخشاب والأثاث,ECO_SEC,Shoes (except rubber and plastic) 
+Low,7,صناعة الأدوية,ECO_SEC,Wood and furniture products 
+Low,70,شركات التأمين,ECO_SEC,Pharmaceutical industry 
+Low,71,جمعيات التسليف التعاونية,ECO_SEC,Insurance companies 
+Low,75,البنك,ECO_SEC,Cooperative Credit Associations 
+Low,76,منتجات المطاط,ECO_SEC,the bank 
+Low,77,منتجات البلاستيك,ECO_SEC,Rubber products 
+Low,78,الفخار والخزفيات والصيني,ECO_SEC,Plastic products 
+Low,79,الزجاج ومنتجاته,ECO_SEC,"Pottery, Cakes and Chinese "
+Low,8,شركات الوساطة المالية,ECO_SEC,Glass and products 
+Low,80,المهندسون,ECO_SEC,Brokerage Companies 
+Low,81,الصيادلة والاطباء,ECO_SEC,Engineers 
+Low,82,المحاسبون والمحامون والاقتصاديون,ECO_SEC,Pharmacists and doctors 
+Low,83,المطابع ودور النشر,ECO_SEC,"Accountants, lawyers and economists "
+Low,84,النجارون(بما فيهم نجارو صناديق السيارات),ECO_SEC,Press and publishing role 
+Low,85,الحدادون(بما فيهم حدادو صناديق السيارات),ECO_SEC,Carpenters (including Carpenters Cars) 
+Low,86,الخياطون(ان يقل عدد العاملين عن 5 اشخاص),ECO_SEC,Blacksmiths (including Haddadu Auto Boxes) 
+Low,87,المشاحم والكراجات ومن في حكمها,ECO_SEC,Tailors (The number of employees for 5 people) 
+Low,88,اصحاب المهن الاخرى,ECO_SEC,Mashem and garages and in their judgment 
+Low,90,الافراد,ECO_SEC,Other professionals 
+Low,91,الاسمنت والجير,ECO_SEC,Individuals 
+Low,92,المنتجات المعدنية الأساسية,ECO_SEC,Cement and lime 
+Low,94,معدات النقل,ECO_SEC,Basic mineral products 
+Low,95,معدات علمية ومهنية أخرى,ECO_SEC,Transport equipment 
+Low,96,صناعات متفرقة,ECO_SEC,Other scientific and professional equipment 
+Low,97,بناء الفنادق,ECO_SEC,Spanish industries 
+Low,98,بناء المستشفيات,ECO_SEC,Building hotels 
+Low,99,اغراض اخرى,ECO_SEC,Building hospitals 
+Medium,145,نشر الصحف والمجلات والدوريات,ECO_SEC,Other purposes 
+Medium,149,صناعة كيماويات اساسية عدا اسمدة نيتروجين,ECO_SEC,"Posted by newspapers, magazines and patrols "
+Medium,200,انتاج وتجميع وتوزيع الكهرباء,ECO_SEC,Manufacture of basic chemicals except for nitrogen fertilizers 
+Medium,201,انتاج وتعبئة وتوزيع الغاز,ECO_SEC,"Production, assembly and distribution of electricity "
+Medium,205,مؤسسات خاصه وشركات ومكاتب عقاريه,ECO_SEC,"Production, packaging and distribution of gas "
+Medium,23,"الصناعات البترولية,الكيماويةوالبلاستكية",ECO_SEC,"Special institutions, companies and offices "
+Medium,236,بيع محروقات السيارات,ECO_SEC,"Petroleum industries, chemical and plastic "
+Medium,359,صناعة الكيماويات ومشتقاتها,ECO_SEC,Sell Auto Fuel 
+Medium,373,ت مواد غ وتبغ ومشروبات كحوليه وغازيه,ECO_SEC,Chemical industry and derivatives 
+Medium,38,التبغ والسجائر,ECO_SEC,"Materials, dye and behavior and gas "
+Medium,41,تجارة التبغ والمشروبات الروحية,ECO_SEC,Tobacco and cigarettes 
+Medium,69,الكيماويات الصناعية,ECO_SEC,Tobacco trade and spirits 
+High,100,ائتلاف  شركات,TYPE_OF_DEP,
+High,12,احزاب,TYPE_OF_DEP,Coalition of Companies 
+High,13,نقابات,TYPE_OF_DEP,Parties 
+High,44,وحدة الأوفشور,TYPE_OF_DEP,Unions 
+High,62,شركة استثمار مشترك,TYPE_OF_DEP,The Offshore Unit 
+High,63,افراد واصحاب مهن بحجم كبير,TYPE_OF_DEP,Shared Investment Company 
+High,90,الآني,TYPE_OF_DEP,A large size personnel and professions 
+High,91,الهامش,TYPE_OF_DEP,Female 
+High,99,اخرى,TYPE_OF_DEP,Margin 
+Low,0,لا يوجد,TYPE_OF_DEP,Other 
+Low,1,مؤسّسات حكوميّة ضمن الموازنة,TYPE_OF_DEP,There is no 
+Low,10,سفارات / قنصليات,TYPE_OF_DEP,Government institutions within the budget 
+Low,11,مؤسسات دولية اجنبية,TYPE_OF_DEP,Embassies / Consulates 
+Low,1234,قطاع الاتصالات,TYPE_OF_DEP,Foreign international institutions 
+Low,14,جمعيات تعاونية,TYPE_OF_DEP,Communication Sector 
+Low,15,جمعيات خيرية,TYPE_OF_DEP,Cooperative associations 
+Low,16,روابط,TYPE_OF_DEP,Charities 
+Low,17,نوادي,TYPE_OF_DEP,Relationships 
+Low,2,مؤسسات حكوميه خارج الموازنه,TYPE_OF_DEP,Clubs 
+Low,20,افراد,TYPE_OF_DEP,Government institutions outside the budget 
+Low,21,عامل,TYPE_OF_DEP,Persons 
+Low,22,اصحاب المهن,TYPE_OF_DEP,Factor 
+Low,23,موظف لدى البنك,TYPE_OF_DEP,Professionals 
+Low,24,موظف قطاع عام,TYPE_OF_DEP,Bank employee 
+Low,25,موظف قطاع خاص,TYPE_OF_DEP,General Sector Officer 
+Low,26,منتسبي المؤسسات العسكرية,TYPE_OF_DEP,private sector employee 
+Low,27,متقاعد,TYPE_OF_DEP,Employees of military institutions 
+Low,28,قاصر,TYPE_OF_DEP,Persuaded 
+Low,29,ربة بيت,TYPE_OF_DEP,minor 
+Low,3,مؤسسة الضمان الاجتماعي,TYPE_OF_DEP,Housewife 
+Low,30,طالب,TYPE_OF_DEP,Social Security Foundation 
+Low,31,عميل ذو إعاقة,TYPE_OF_DEP,Student 
+Low,32,مؤقت,TYPE_OF_DEP,Client 
+Low,33,,TYPE_OF_DEP,Temporary 
+Low,4,البلديات والمجالس القرويه,TYPE_OF_DEP,male 
+Low,40,دوائر واقسام البنك,TYPE_OF_DEP,Municipalities and village councils 
+Low,41,فروع البنك المحلية,TYPE_OF_DEP,Bank departments 
+Low,42,فروع البنك الخارجية,TYPE_OF_DEP,Local Bank branches 
+Low,43,الإدارة العامة,TYPE_OF_DEP,External Bank branches 
+Low,45,البنك المركزي,TYPE_OF_DEP,Public Administration 
+Low,46,بنوك تجارية محلية,TYPE_OF_DEP,central bank 
+Low,51,حسابات رواتب,TYPE_OF_DEP,Local Commercial Banks 
+Low,52,شركة تضامن,TYPE_OF_DEP,Accounts salaries 
+Low,53,شركة التوصية البسيطة,TYPE_OF_DEP,Solidarity Company 
+Low,54,الشركة ذات المسؤولية المحدودة,TYPE_OF_DEP,Simple recommendation company 
+Low,58,شركة معفاة,TYPE_OF_DEP,Company Limited Limited 
+Low,59,شركة لاتهدف لتحقيق الربح,TYPE_OF_DEP,Exempt company 
+Low,6,مؤسسات عامه غير ماليه,TYPE_OF_DEP,Company is not aimed at achieving profit 
+Low,64,مؤسسات القطاع العام,TYPE_OF_DEP,General institutions are not financial 
+Low,7,هيئات دينية,TYPE_OF_DEP,Public sector institutions 
+Medium,35,شركات مساهمة عامة,TYPE_OF_DEP,Religious bodies 
+Medium,36,شركات مساهمة خاصة,TYPE_OF_DEP,General Contribution Companies 
+Medium,37,شركات ومؤسسات الأفراد,TYPE_OF_DEP,Special contribution companies 
+Medium,47,بنوك خارج المملكة,TYPE_OF_DEP,Individual companies and institutions 
+Medium,48,بنوك متخصصة,TYPE_OF_DEP,Banks outside the Kingdom 
+Medium,49,مؤسسات مصرفية اخرى,TYPE_OF_DEP,Specialized banks 
+Medium,5,مؤسسات ماليه غير مصرفيه,TYPE_OF_DEP,Other banking institutions 
+Medium,50,مؤسسات شبه حكومية,TYPE_OF_DEP,Non-bank financial institutions 
+Medium,55,شركة التوصية بالأسهم,TYPE_OF_DEP,Semi-governmental institutions 
+Medium,56,شركة أجنبية عاملة,TYPE_OF_DEP,Equity recommendation company 
+Medium,57,شركة أجنبية غير عاملة,TYPE_OF_DEP,A foreign company operated 
+Medium,60,شركة مدينة,TYPE_OF_DEP,A foreign company is not working 
+Medium,61,شركة عربية مشتركة,TYPE_OF_DEP,City Company 
+High,100,ائتلاف  شركات,LEGAL_STA_CODE,
+High,12,احزاب,LEGAL_STA_CODE,Coalition of Companies 
+High,13,نقابات,LEGAL_STA_CODE,Parties 
+High,2,مؤسسات حكوميه خارج الموازنه,LEGAL_STA_CODE,Unions 
+High,27,متقاعد,LEGAL_STA_CODE,Government institutions outside the budget 
+High,5,مؤسسات ماليه غير مصرفيه,LEGAL_STA_CODE,Persuaded 
+High,57,شركة أجنبية غير عاملة,LEGAL_STA_CODE,Non-bank financial institutions 
+High,60,شركة مدينة,LEGAL_STA_CODE,A foreign company is not working 
+High,63,افراد واصحاب مهن بحجم كبير,LEGAL_STA_CODE,City Company 
+High,90,الآني,LEGAL_STA_CODE,A large size personnel and professions 
+High,91,الهامش,LEGAL_STA_CODE,Female 
+High,99,اخرى,LEGAL_STA_CODE,Margin 
+Low,1,مؤسّسات حكوميّة ضمن الموازنة,LEGAL_STA_CODE,Other 
+Low,10,سفارات / قنصليات,LEGAL_STA_CODE,Government institutions within the budget 
+Low,20,افراد,LEGAL_STA_CODE,Embassies / Consulates 
+Low,21,عامل,LEGAL_STA_CODE,Persons 
+Low,22,اصحاب المهن,LEGAL_STA_CODE,Factor 
+Low,23,موظف لدى البنك,LEGAL_STA_CODE,Professionals 
+Low,24,موظف قطاع عام,LEGAL_STA_CODE,Bank employee 
+Low,25,موظف قطاع خاص,LEGAL_STA_CODE,General Sector Officer 
+Low,26,منتسبي المؤسسات العسكرية,LEGAL_STA_CODE,private sector employee 
+Low,28,قاصر,LEGAL_STA_CODE,Employees of military institutions 
+Low,29,ربة بيت,LEGAL_STA_CODE,minor 
+Low,3,مؤسسة الضمان الاجتماعي,LEGAL_STA_CODE,Housewife 
+Low,30,طالب,LEGAL_STA_CODE,Social Security Foundation 
+Low,31,عميل ذو إعاقة,LEGAL_STA_CODE,Student 
+Low,35,شركات مساهمة عامة,LEGAL_STA_CODE,Client 
+Low,40,دوائر واقسام البنك,LEGAL_STA_CODE,General Contribution Companies 
+Low,41,فروع البنك المحلية,LEGAL_STA_CODE,Bank departments 
+Low,42,فروع البنك الخارجية,LEGAL_STA_CODE,Local Bank branches 
+Low,43,الإدارة العامة,LEGAL_STA_CODE,External Bank branches 
+Low,45,البنك المركزي,LEGAL_STA_CODE,Public Administration 
+Low,46,بنوك تجارية محلية,LEGAL_STA_CODE,central bank 
+Low,47,بنوك خارج المملكة,LEGAL_STA_CODE,Local Commercial Banks 
+Low,48,بنوك متخصصة,LEGAL_STA_CODE,Banks outside the Kingdom 
+Low,49,مؤسسات مصرفية اخرى,LEGAL_STA_CODE,Specialized banks 
+Low,51,حسابات رواتب,LEGAL_STA_CODE,Other banking institutions 
+Low,59,شركة لاتهدف لتحقيق الربح,LEGAL_STA_CODE,Accounts salaries 
+Low,6,مؤسسات عامه غير ماليه,LEGAL_STA_CODE,Company is not aimed at achieving profit 
+Low,64,مؤسسات القطاع العام,LEGAL_STA_CODE,General institutions are not financial 
+Low,7,هيئات دينية,LEGAL_STA_CODE,Public sector institutions 
+Medium,0,لا يوجد,LEGAL_STA_CODE,Religious bodies 
+Medium,11,مؤسسات دولية اجنبية,LEGAL_STA_CODE,There is no 
+Medium,1234,قطاع الاتصالات,LEGAL_STA_CODE,Foreign international institutions 
+Medium,14,جمعيات تعاونية,LEGAL_STA_CODE,Communication Sector 
+Medium,15,جمعيات خيرية,LEGAL_STA_CODE,Cooperative associations 
+Medium,16,روابط,LEGAL_STA_CODE,Charities 
+Medium,17,نوادي,LEGAL_STA_CODE,Relationships 
+Medium,32,مؤقت,LEGAL_STA_CODE,Clubs 
+Medium,36,شركات مساهمة خاصة,LEGAL_STA_CODE,Temporary 
+Medium,37,شركات ومؤسسات الأفراد,LEGAL_STA_CODE,Special contribution companies 
+Medium,4,البلديات والمجالس القرويه,LEGAL_STA_CODE,Individual companies and institutions 
+Medium,50,مؤسسات شبه حكومية,LEGAL_STA_CODE,Municipalities and village councils 
+Medium,52,شركة تضامن,LEGAL_STA_CODE,Semi-governmental institutions 
+Medium,53,شركة التوصية البسيطة,LEGAL_STA_CODE,Solidarity Company 
+Medium,54,الشركة ذات المسؤولية المحدودة,LEGAL_STA_CODE,Simple recommendation company 
+Medium,55,شركة التوصية بالأسهم,LEGAL_STA_CODE,Company Limited Limited 
+Medium,56,شركة أجنبية عاملة,LEGAL_STA_CODE,Equity recommendation company 
+Medium,58,شركة معفاة,LEGAL_STA_CODE,A foreign company operated 
+Medium,61,شركة عربية مشتركة,LEGAL_STA_CODE,Exempt company 
+Medium,62,شركة استثمار مشترك,LEGAL_STA_CODE,Arabic Joint Company 
+RBA_PHIGH_Legal_Ent,44,وحدة الأوفشور,LEGAL_STA_CODE,Shared Investment Company 
+High,AD,ANDORA,residentCountry,ANDORA
+High,AF,AFGHANISTAN,residentCountry,AFGHANISTAN
+High,AG,ANTIGUA AND BARBUDA,residentCountry,ANTIGUA AND BARBUDA
+High,AN,NETHERLANDS ANTILLES,residentCountry,NETHERLANDS ANTILLES
+High,AO,ANGOLA,residentCountry,ANGOLA
+High,AQ,ANTARCTICA,residentCountry,ANTARCTICA
+High,AR,ARGENTINA,residentCountry,ARGENTINA
+High,AS,AMERICAN SAMOE,residentCountry,AMERICAN SAMOE
+High,AW,ARUBA,residentCountry,ARUBA
+High,BA,Bosnia,residentCountry,Bosnia
+High,BB,BARBADOS,residentCountry,BARBADOS
+High,BH,BAHRAIN,residentCountry,BAHRAIN
+High,BM,BERMUDA,residentCountry,BERMUDA
+High,BN,BRUNEI DARUSSALAM,residentCountry,BRUNEI DARUSSALAM
+High,BS,BAHAMAS,residentCountry,BAHAMAS
+High,BV,BOVET ISLAND,residentCountry,BOVET ISLAND
+High,BZ,BELIZE,residentCountry,BELIZE
+High,CC,COCOS (KEELING) ISLANDS,residentCountry,COCOS (KEELING) ISLANDS
+High,CD,ZAIRE,residentCountry,ZAIRE
+High,CI,COTE DLVOIRE,residentCountry,COTE DLVOIRE
+High,CK,COOK ISLANDS,residentCountry,COOK ISLANDS
+High,CO,COLOMBIA,residentCountry,COLOMBIA
+High,CU,CUBA,residentCountry,CUBA
+High,CX,CHRISTMAS ISLAND,residentCountry,CHRISTMAS ISLAND
+High,CY,CYPRUS,residentCountry,CYPRUS
+High,DZ,ALGERIA,residentCountry,ALGERIA
+High,ET,ETHIOPIA,residentCountry,ETHIOPIA
+High,FJ,FIJI,residentCountry,FIJI
+High,FK,FALKLAND ISLANDS (MALVINAS),residentCountry,FALKLAND ISLANDS (MALVINAS)
+High,FM,MICRONESIA,residentCountry,MICRONESIA
+High,FO,FARO ISLANDS,residentCountry,FARO ISLANDS
+High,GL,GREENLAND,residentCountry,GREENLAND
+High,GN,GUINEA,residentCountry,GUINEA
+High,GP,GUADELOUPE,residentCountry,GUADELOUPE
+High,GQ,EQUATORIAL GUINEA,residentCountry,EQUATORIAL GUINEA
+High,GT,GUATEMALA,residentCountry,GUATEMALA
+High,GU,GUAM,residentCountry,GUAM
+High,GW,GUINEA-BISSAU,residentCountry,GUINEA-BISSAU
+High,GY,GUYANA,residentCountry,GUYANA
+High,HK,HONG KONG,residentCountry,HONG KONG
+High,HM,HEARD AND MCDONALD ISLANDS,residentCountry,HEARD AND MCDONALD ISLANDS
+High,HN,HONDURAS,residentCountry,HONDURAS
+High,HT,HAITI,residentCountry,HAITI
+High,IO,BRITISH INDIAN OCEAN TERRITORY,residentCountry,BRITISH INDIAN OCEAN TERRITORY
+High,IQ,IRAQ,residentCountry,IRAQ
+High,JM,JAMAICA,residentCountry,JAMAICA
+High,KE,KENYA,residentCountry,KENYA
+High,KH,"KAMPUCHEA , DEMOCRATIC",residentCountry,"KAMPUCHEA , DEMOCRATIC"
+High,KI,KIRIBATI,residentCountry,KIRIBATI
+High,KN,SAINT KITTS AND NEVIS,residentCountry,SAINT KITTS AND NEVIS
+High,KY,CAYMAN ISLANDS,residentCountry,CAYMAN ISLANDS
+High,LA,LAO PEOPLE'S DEMOCRATIC REPUBLIC,residentCountry,LAO PEOPLE'S DEMOCRATIC REPUBLIC
+High,LB,LEBANON,residentCountry,LEBANON
+High,LC,SAINT LUCIA,residentCountry,SAINT LUCIA
+High,LT,Lithuania,residentCountry,Lithuania
+High,LY,LIBYAN ARAB JAMAHIRIYA,residentCountry,LIBYAN ARAB JAMAHIRIYA
+High,MD,Moldova,residentCountry,Moldova
+High,ME,Montenegro,residentCountry,Montenegro
+High,MH,MARSHALL ISLANDS,residentCountry,MARSHALL ISLANDS
+High,ML,MALI,residentCountry,MALI
+High,MM,BURMA,residentCountry,BURMA
+High,MN,MONGOLIA,residentCountry,MONGOLIA
+High,MP,NOTHEN MARIANA ISLANDS,residentCountry,NOTHEN MARIANA ISLANDS
+High,MS,MONTSERRAT,residentCountry,MONTSERRAT
+High,MU,MAURITIUS,residentCountry,MAURITIUS
+High,MV,MALDIVES,residentCountry,MALDIVES
+High,MZ,MOZAMBIQUE,residentCountry,MOZAMBIQUE
+High,,NAMIBIA,residentCountry,NAMIBIA
+High,NC,NEW CALEDONIA,residentCountry,NEW CALEDONIA
+High,NF,NORFOLK ISLAND,residentCountry,NORFOLK ISLAND
+High,NP,NEPAL,residentCountry,NEPAL
+High,NR,NAURU,residentCountry,NAURU
+High,NT,NEUTRAL ZONE,residentCountry,NEUTRAL ZONE
+High,NU,NIUE,residentCountry,NIUE
+High,PA,PANAMA,residentCountry,PANAMA
+High,PE,PERU,residentCountry,PERU
+High,PG,PAPUA NEW GUINEA,residentCountry,PAPUA NEW GUINEA
+High,PK,PAKISTAN,residentCountry,PAKISTAN
+High,PM,ST. PIERRE AND MIQUELON,residentCountry,ST. PIERRE AND MIQUELON
+High,PN,PITCAIRN,residentCountry,PITCAIRN
+High,PW,PALAU,residentCountry,PALAU
+High,RE,REUNION,residentCountry,REUNION
+High,RU,Russia,residentCountry,Russia
+High,RW,RWANDA,residentCountry,RWANDA
+High,SB,SOLOMON ISLAND,residentCountry,SOLOMON ISLAND
+High,SC,SEYCHELLES,residentCountry,SEYCHELLES
+High,SD,SUDAN,residentCountry,SUDAN
+High,SG,Singapore,residentCountry,Singapore
+High,SH,ST.HELENA,residentCountry,ST.HELENA
+High,SJ,SVALLBARD AND JAN MAYAN ISLANDS,residentCountry,SVALLBARD AND JAN MAYAN ISLANDS
+High,SL,SIERRA LEONE,residentCountry,SIERRA LEONE
+High,SN,SENEGAL,residentCountry,SENEGAL
+High,SO,SOMALIA,residentCountry,SOMALIA
+High,SR,SURINAME,residentCountry,SURINAME
+High,ST,SAO TOME AND PRINCIPE,residentCountry,SAO TOME AND PRINCIPE
+High,SY,SYRIAN ARAB REPUBLIC,residentCountry,SYRIAN ARAB REPUBLIC
+High,TC,TURKS AND CAICOS ISLANDS,residentCountry,TURKS AND CAICOS ISLANDS
+High,TK,TOKELAU,residentCountry,TOKELAU
+High,TL,EAST TIMOR,residentCountry,EAST TIMOR
+High,TN,TUNISIA,residentCountry,TUNISIA
+High,TO,TONGA,residentCountry,TONGA
+High,TR,TURKEY,residentCountry,TURKEY
+High,TV,TUVALU,residentCountry,TUVALU
+High,TZ,"TANZANIA, UNITED REPUBLIC",residentCountry,"TANZANIA, UNITED REPUBLIC"
+High,UA,UKRAINIAN SSR,residentCountry,UKRAINIAN SSR
+High,UG,UGANDA,residentCountry,UGANDA
+High,UM,UNITED STATES MINOR OUTLYING ISLANDS,residentCountry,UNITED STATES MINOR OUTLYING ISLANDS
+High,VC,SAINT VINCENT AND THE GRENADINES,residentCountry,SAINT VINCENT AND THE GRENADINES
+High,VG,VIRGIN ISLANDS (BRITISH),residentCountry,VIRGIN ISLANDS (BRITISH)
+High,VI,VIRGIN ISLANDS (U.S),residentCountry,VIRGIN ISLANDS (U.S)
+High,VU,VANUATU,residentCountry,VANUATU
+High,WF,WALLIS AND FUTUNA ISLANDS,residentCountry,WALLIS AND FUTUNA ISLANDS
+High,WS,SAMOA,residentCountry,SAMOA
+High,YE,YEMEN,residentCountry,YEMEN
+High,ZM,ZAMBIA,residentCountry,ZAMBIA
+High,ZW,ZIMBABWE,residentCountry,ZIMBABWE
+Low,AM,ARMENIA,residentCountry,ARMENIA
+Low,AT,AUSTRIA,residentCountry,AUSTRIA
+Low,AU,AUSTRALIA,residentCountry,AUSTRALIA
+Low,AZ,Azerbaijan,residentCountry,Azerbaijan
+Low,BE,BELGIUM,residentCountry,BELGIUM
+Low,BF,BURKINA FASO,residentCountry,BURKINA FASO
+Low,BG,BULGARIA,residentCountry,BULGARIA
+Low,BW,BOTSWANA,residentCountry,BOTSWANA
+Low,CA,CANADA,residentCountry,CANADA
+Low,CF,CENTRAL AFRICAN REPUBLIC,residentCountry,CENTRAL AFRICAN REPUBLIC
+Low,CG,CONGO,residentCountry,CONGO
+Low,CL,CHILE,residentCountry,CHILE
+Low,CM,CAMEROON,residentCountry,CAMEROON
+Low,CR,COSTA RICA,residentCountry,COSTA RICA
+Low,CV,CAPE VERDE,residentCountry,CAPE VERDE
+Low,CZ,CZECH REPUBLIC,residentCountry,CZECH REPUBLIC
+Low,DD,GERMAN DEMOCRATIC REPUBLIC,residentCountry,GERMAN DEMOCRATIC REPUBLIC
+Low,DE,Germany,residentCountry,Germany
+Low,DK,DENMARK,residentCountry,DENMARK
+Low,DM,DOMINICA,residentCountry,DOMINICA
+Low,DO,DOMINICAN REPUBLIC,residentCountry,DOMINICAN REPUBLIC
+Low,EC,ECUADOR,residentCountry,ECUADOR
+Low,EE,Estonia,residentCountry,Estonia
+Low,ES,SPAIN,residentCountry,SPAIN
+Low,FI,FINLAND,residentCountry,FINLAND
+Low,FR,FRANCE,residentCountry,FRANCE
+Low,GA,GABON,residentCountry,GABON
+Low,GB,UNITED KINGDOM,residentCountry,UNITED KINGDOM
+Low,GE,Georgia,residentCountry,Georgia
+Low,GF,FRENCH GUIANA,residentCountry,FRENCH GUIANA
+Low,GI,GIBALTAR,residentCountry,GIBALTAR
+Low,GM,GAMBIA,residentCountry,GAMBIA
+Low,HR,CROATIA,residentCountry,CROATIA
+Low,HU,HUNGARY,residentCountry,HUNGARY
+Low,ID,INDONESIA,residentCountry,INDONESIA
+Low,IE,IRELAND,residentCountry,IRELAND
+Low,IL,ISRAEL,residentCountry,ISRAEL
+Low,IN,INDIA,residentCountry,INDIA
+Low,IS,ICELAND,residentCountry,ICELAND
+Low,IT,ITALY,residentCountry,ITALY
+Low,JO,JORDAN,residentCountry,JORDAN
+Low,JP,JAPAN,residentCountry,JAPAN
+Low,KR,"KOREA, REPUBLIC SOUTH",residentCountry,"KOREA, REPUBLIC SOUTH"
+Low,LI,LIECHTENSTEIN,residentCountry,LIECHTENSTEIN
+Low,LK,SRI LANKA,residentCountry,SRI LANKA
+Low,LR,LIBERIA,residentCountry,LIBERIA
+Low,LU,LUXEMBOURG,residentCountry,LUXEMBOURG
+Low,MK,MACEDONIA,residentCountry,MACEDONIA
+Low,MO,MACAU,residentCountry,MACAU
+Low,MQ,MARTINIQUE,residentCountry,MARTINIQUE
+Low,MR,MAURITANIA,residentCountry,MAURITANIA
+Low,NI,NICARAGUA,residentCountry,NICARAGUA
+Low,NL,NETHERLANDS,residentCountry,NETHERLANDS
+Low,NO,Norway,residentCountry,Norway
+Low,NZ,NEW ZEELAND,residentCountry,NEW ZEELAND
+Low,PF,FRENCH POLYNESIA,residentCountry,FRENCH POLYNESIA
+Low,PL,POLAND,residentCountry,POLAND
+Low,PR,PUERTO RICO,residentCountry,PUERTO RICO
+Low,PT,PORTUGAL,residentCountry,PORTUGAL
+Low,RO,ROMANIA,residentCountry,ROMANIA
+Low,SA,SAUDI ARABIA,residentCountry,SAUDI ARABIA
+Low,SE,SWEDEN,residentCountry,SWEDEN
+Low,SI,Slovinia,residentCountry,Slovinia
+Low,SM,SAN MARINO,residentCountry,SAN MARINO
+Low,SV,EL SALVADOR,residentCountry,EL SALVADOR
+Low,TF,FRENCH SOUTHERN TERRITORIES,residentCountry,FRENCH SOUTHERN TERRITORIES
+Low,TH,THAILAND,residentCountry,THAILAND
+Low,TW,TAIWAN,residentCountry,TAIWAN
+Low,VA,VATICAN CITY STATE,residentCountry,VATICAN CITY STATE
+Low,YU,YUGOSLAVIA,residentCountry,YUGOSLAVIA
+Medium,AE,UNITED ARAB EMIRATES,residentCountry,UNITED ARAB EMIRATES
+Medium,AI,ANGUILLA,residentCountry,ANGUILLA
+Medium,AL,ALBANIA,residentCountry,ALBANIA
+Medium,BD,BANGLADESH,residentCountry,BANGLADESH
+Medium,BI,BURUNDI,residentCountry,BURUNDI
+Medium,BJ,BENIN,residentCountry,BENIN
+Medium,BO,BOLIVIA,residentCountry,BOLIVIA
+Medium,BR,BRAZIL,residentCountry,BRAZIL
+Medium,BT,BHUTAN,residentCountry,BHUTAN
+Medium,CH,CHINA,residentCountry,CHINA
+Medium,CN,CHINA,residentCountry,CHINA
+Medium,DJ,DJIBOUTI,residentCountry,DJIBOUTI
+Medium,EG,EGYPT,residentCountry,EGYPT
+Medium,EH,WESTERN SAHARA,residentCountry,WESTERN SAHARA
+Medium,GH,GHANA,residentCountry,GHANA
+Medium,GR,GREECE,residentCountry,GREECE
+Medium,KM,COMOROS,residentCountry,COMOROS
+Medium,KW,KUWAIT,residentCountry,KUWAIT
+Medium,LS,LESOTHO,residentCountry,LESOTHO
+Medium,LV,Latvia,residentCountry,Latvia
+Medium,MA,MOROCCO,residentCountry,MOROCCO
+Medium,MC,MONACO,residentCountry,MONACO
+Medium,MG,MADAGASCAR,residentCountry,MADAGASCAR
+Medium,MT,MALTA,residentCountry,MALTA
+Medium,MW,MALAWI,residentCountry,MALAWI
+Medium,MX,MEXICO,residentCountry,MEXICO
+Medium,MY,MALAYSIA,residentCountry,MALAYSIA
+Medium,NE,NIGER,residentCountry,NIGER
+Medium,NG,NIGERIA,residentCountry,NIGERIA
+Medium,OM,OMAN,residentCountry,OMAN
+Medium,PH,PHILIPPINES,residentCountry,PHILIPPINES
+Medium,PS,PALESTINE,residentCountry,PALESTINE
+Medium,PY,PARAGUAY,residentCountry,PARAGUAY
+Medium,QA,QATAR,residentCountry,QATAR
+Medium,SZ,SWAZILAND,residentCountry,SWAZILAND
+Medium,TD,CHAD,residentCountry,CHAD
+Medium,TG,TOGO,residentCountry,TOGO
+Medium,TT,TRINIDAD AND TOBAGO,residentCountry,TRINIDAD AND TOBAGO
+Medium,US,UNITED STATES,residentCountry,UNITED STATES
+Medium,UY,URUGUAY,residentCountry,URUGUAY
+Medium,VE,VENEZUELA,residentCountry,VENEZUELA
+Medium,VN,VIET NAM,residentCountry,VIET NAM
+Medium,ZA,SOUTH AFRICA,residentCountry,SOUTH AFRICA
+High,IR,IRAN (ISLAMIC REPUBLIC),residentCountry,IRAN (ISLAMIC REPUBLIC)
+High,KP,"KOREA,DEMOCRATIC PEOPLE'S REPUBLIC",residentCountry,"KOREA,DEMOCRATIC PEOPLE'S REPUBLIC"
+High,AD,ANDORA,extraNationality,ANDORA
+High,AF,AFGHANISTAN,extraNationality,AFGHANISTAN
+High,AG,ANTIGUA AND BARBUDA,extraNationality,ANTIGUA AND BARBUDA
+High,AN,NETHERLANDS ANTILLES,extraNationality,NETHERLANDS ANTILLES
+High,AO,ANGOLA,extraNationality,ANGOLA
+High,AQ,ANTARCTICA,extraNationality,ANTARCTICA
+High,AR,ARGENTINA,extraNationality,ARGENTINA
+High,AS,AMERICAN SAMOE,extraNationality,AMERICAN SAMOE
+High,AW,ARUBA,extraNationality,ARUBA
+High,BA,Bosnia,extraNationality,Bosnia
+High,BB,BARBADOS,extraNationality,BARBADOS
+High,BH,BAHRAIN,extraNationality,BAHRAIN
+High,BM,BERMUDA,extraNationality,BERMUDA
+High,BN,BRUNEI DARUSSALAM,extraNationality,BRUNEI DARUSSALAM
+High,BS,BAHAMAS,extraNationality,BAHAMAS
+High,BV,BOVET ISLAND,extraNationality,BOVET ISLAND
+High,BZ,BELIZE,extraNationality,BELIZE
+High,CC,COCOS (KEELING) ISLANDS,extraNationality,COCOS (KEELING) ISLANDS
+High,CD,ZAIRE,extraNationality,ZAIRE
+High,CI,COTE DLVOIRE,extraNationality,COTE DLVOIRE
+High,CK,COOK ISLANDS,extraNationality,COOK ISLANDS
+High,CO,COLOMBIA,extraNationality,COLOMBIA
+High,CU,CUBA,extraNationality,CUBA
+High,CX,CHRISTMAS ISLAND,extraNationality,CHRISTMAS ISLAND
+High,CY,CYPRUS,extraNationality,CYPRUS
+High,DZ,ALGERIA,extraNationality,ALGERIA
+High,ET,ETHIOPIA,extraNationality,ETHIOPIA
+High,FJ,FIJI,extraNationality,FIJI
+High,FK,FALKLAND ISLANDS (MALVINAS),extraNationality,FALKLAND ISLANDS (MALVINAS)
+High,FM,MICRONESIA,extraNationality,MICRONESIA
+High,FO,FARO ISLANDS,extraNationality,FARO ISLANDS
+High,GL,GREENLAND,extraNationality,GREENLAND
+High,GN,GUINEA,extraNationality,GUINEA
+High,GP,GUADELOUPE,extraNationality,GUADELOUPE
+High,GQ,EQUATORIAL GUINEA,extraNationality,EQUATORIAL GUINEA
+High,GT,GUATEMALA,extraNationality,GUATEMALA
+High,GU,GUAM,extraNationality,GUAM
+High,GW,GUINEA-BISSAU,extraNationality,GUINEA-BISSAU
+High,GY,GUYANA,extraNationality,GUYANA
+High,HK,HONG KONG,extraNationality,HONG KONG
+High,HM,HEARD AND MCDONALD ISLANDS,extraNationality,HEARD AND MCDONALD ISLANDS
+High,HN,HONDURAS,extraNationality,HONDURAS
+High,HT,HAITI,extraNationality,HAITI
+High,IO,BRITISH INDIAN OCEAN TERRITORY,extraNationality,BRITISH INDIAN OCEAN TERRITORY
+High,IQ,IRAQ,extraNationality,IRAQ
+High,JM,JAMAICA,extraNationality,JAMAICA
+High,KE,KENYA,extraNationality,KENYA
+High,KH,"KAMPUCHEA , DEMOCRATIC",extraNationality,"KAMPUCHEA , DEMOCRATIC"
+High,KI,KIRIBATI,extraNationality,KIRIBATI
+High,KN,SAINT KITTS AND NEVIS,extraNationality,SAINT KITTS AND NEVIS
+High,KY,CAYMAN ISLANDS,extraNationality,CAYMAN ISLANDS
+High,LA,LAO PEOPLE'S DEMOCRATIC REPUBLIC,extraNationality,LAO PEOPLE'S DEMOCRATIC REPUBLIC
+High,LB,LEBANON,extraNationality,LEBANON
+High,LC,SAINT LUCIA,extraNationality,SAINT LUCIA
+High,LT,Lithuania,extraNationality,Lithuania
+High,LY,LIBYAN ARAB JAMAHIRIYA,extraNationality,LIBYAN ARAB JAMAHIRIYA
+High,MD,Moldova,extraNationality,Moldova
+High,ME,Montenegro,extraNationality,Montenegro
+High,MH,MARSHALL ISLANDS,extraNationality,MARSHALL ISLANDS
+High,ML,MALI,extraNationality,MALI
+High,MM,BURMA,extraNationality,BURMA
+High,MN,MONGOLIA,extraNationality,MONGOLIA
+High,MP,NOTHEN MARIANA ISLANDS,extraNationality,NOTHEN MARIANA ISLANDS
+High,MS,MONTSERRAT,extraNationality,MONTSERRAT
+High,MU,MAURITIUS,extraNationality,MAURITIUS
+High,MV,MALDIVES,extraNationality,MALDIVES
+High,MZ,MOZAMBIQUE,extraNationality,MOZAMBIQUE
+High,,NAMIBIA,extraNationality,NAMIBIA
+High,NC,NEW CALEDONIA,extraNationality,NEW CALEDONIA
+High,NF,NORFOLK ISLAND,extraNationality,NORFOLK ISLAND
+High,NP,NEPAL,extraNationality,NEPAL
+High,NR,NAURU,extraNationality,NAURU
+High,NT,NEUTRAL ZONE,extraNationality,NEUTRAL ZONE
+High,NU,NIUE,extraNationality,NIUE
+High,PA,PANAMA,extraNationality,PANAMA
+High,PE,PERU,extraNationality,PERU
+High,PG,PAPUA NEW GUINEA,extraNationality,PAPUA NEW GUINEA
+High,PK,PAKISTAN,extraNationality,PAKISTAN
+High,PM,ST. PIERRE AND MIQUELON,extraNationality,ST. PIERRE AND MIQUELON
+High,PN,PITCAIRN,extraNationality,PITCAIRN
+High,PW,PALAU,extraNationality,PALAU
+High,RE,REUNION,extraNationality,REUNION
+High,RU,Russia,extraNationality,Russia
+High,RW,RWANDA,extraNationality,RWANDA
+High,SB,SOLOMON ISLAND,extraNationality,SOLOMON ISLAND
+High,SC,SEYCHELLES,extraNationality,SEYCHELLES
+High,SD,SUDAN,extraNationality,SUDAN
+High,SG,Singapore,extraNationality,Singapore
+High,SH,ST.HELENA,extraNationality,ST.HELENA
+High,SJ,SVALLBARD AND JAN MAYAN ISLANDS,extraNationality,SVALLBARD AND JAN MAYAN ISLANDS
+High,SL,SIERRA LEONE,extraNationality,SIERRA LEONE
+High,SN,SENEGAL,extraNationality,SENEGAL
+High,SO,SOMALIA,extraNationality,SOMALIA
+High,SR,SURINAME,extraNationality,SURINAME
+High,ST,SAO TOME AND PRINCIPE,extraNationality,SAO TOME AND PRINCIPE
+High,SY,SYRIAN ARAB REPUBLIC,extraNationality,SYRIAN ARAB REPUBLIC
+High,TC,TURKS AND CAICOS ISLANDS,extraNationality,TURKS AND CAICOS ISLANDS
+High,TK,TOKELAU,extraNationality,TOKELAU
+High,TL,EAST TIMOR,extraNationality,EAST TIMOR
+High,TN,TUNISIA,extraNationality,TUNISIA
+High,TO,TONGA,extraNationality,TONGA
+High,TR,TURKEY,extraNationality,TURKEY
+High,TV,TUVALU,extraNationality,TUVALU
+High,TZ,"TANZANIA, UNITED REPUBLIC",extraNationality,"TANZANIA, UNITED REPUBLIC"
+High,UA,UKRAINIAN SSR,extraNationality,UKRAINIAN SSR
+High,UG,UGANDA,extraNationality,UGANDA
+High,UM,UNITED STATES MINOR OUTLYING ISLANDS,extraNationality,UNITED STATES MINOR OUTLYING ISLANDS
+High,VC,SAINT VINCENT AND THE GRENADINES,extraNationality,SAINT VINCENT AND THE GRENADINES
+High,VG,VIRGIN ISLANDS (BRITISH),extraNationality,VIRGIN ISLANDS (BRITISH)
+High,VI,VIRGIN ISLANDS (U.S),extraNationality,VIRGIN ISLANDS (U.S)
+High,VU,VANUATU,extraNationality,VANUATU
+High,WF,WALLIS AND FUTUNA ISLANDS,extraNationality,WALLIS AND FUTUNA ISLANDS
+High,WS,SAMOA,extraNationality,SAMOA
+High,YE,YEMEN,extraNationality,YEMEN
+High,ZM,ZAMBIA,extraNationality,ZAMBIA
+High,ZW,ZIMBABWE,extraNationality,ZIMBABWE
+Low,AM,ARMENIA,extraNationality,ARMENIA
+Low,AT,AUSTRIA,extraNationality,AUSTRIA
+Low,AU,AUSTRALIA,extraNationality,AUSTRALIA
+Low,AZ,Azerbaijan,extraNationality,Azerbaijan
+Low,BE,BELGIUM,extraNationality,BELGIUM
+Low,BF,BURKINA FASO,extraNationality,BURKINA FASO
+Low,BG,BULGARIA,extraNationality,BULGARIA
+Low,BW,BOTSWANA,extraNationality,BOTSWANA
+Low,CA,CANADA,extraNationality,CANADA
+Low,CF,CENTRAL AFRICAN REPUBLIC,extraNationality,CENTRAL AFRICAN REPUBLIC
+Low,CG,CONGO,extraNationality,CONGO
+Low,CL,CHILE,extraNationality,CHILE
+Low,CM,CAMEROON,extraNationality,CAMEROON
+Low,CR,COSTA RICA,extraNationality,COSTA RICA
+Low,CV,CAPE VERDE,extraNationality,CAPE VERDE
+Low,CZ,CZECH REPUBLIC,extraNationality,CZECH REPUBLIC
+Low,DD,GERMAN DEMOCRATIC REPUBLIC,extraNationality,GERMAN DEMOCRATIC REPUBLIC
+Low,DE,Germany,extraNationality,Germany
+Low,DK,DENMARK,extraNationality,DENMARK
+Low,DM,DOMINICA,extraNationality,DOMINICA
+Low,DO,DOMINICAN REPUBLIC,extraNationality,DOMINICAN REPUBLIC
+Low,EC,ECUADOR,extraNationality,ECUADOR
+Low,EE,Estonia,extraNationality,Estonia
+Low,ES,SPAIN,extraNationality,SPAIN
+Low,FI,FINLAND,extraNationality,FINLAND
+Low,FR,FRANCE,extraNationality,FRANCE
+Low,GA,GABON,extraNationality,GABON
+Low,GB,UNITED KINGDOM,extraNationality,UNITED KINGDOM
+Low,GE,Georgia,extraNationality,Georgia
+Low,GF,FRENCH GUIANA,extraNationality,FRENCH GUIANA
+Low,GI,GIBALTAR,extraNationality,GIBALTAR
+Low,GM,GAMBIA,extraNationality,GAMBIA
+Low,HR,CROATIA,extraNationality,CROATIA
+Low,HU,HUNGARY,extraNationality,HUNGARY
+Low,ID,INDONESIA,extraNationality,INDONESIA
+Low,IE,IRELAND,extraNationality,IRELAND
+Low,IL,ISRAEL,extraNationality,ISRAEL
+Low,IN,INDIA,extraNationality,INDIA
+Low,IS,ICELAND,extraNationality,ICELAND
+Low,IT,ITALY,extraNationality,ITALY
+Low,JO,JORDAN,extraNationality,JORDAN
+Low,JP,JAPAN,extraNationality,JAPAN
+Low,KR,"KOREA, REPUBLIC SOUTH",extraNationality,"KOREA, REPUBLIC SOUTH"
+Low,LI,LIECHTENSTEIN,extraNationality,LIECHTENSTEIN
+Low,LK,SRI LANKA,extraNationality,SRI LANKA
+Low,LR,LIBERIA,extraNationality,LIBERIA
+Low,LU,LUXEMBOURG,extraNationality,LUXEMBOURG
+Low,MK,MACEDONIA,extraNationality,MACEDONIA
+Low,MO,MACAU,extraNationality,MACAU
+Low,MQ,MARTINIQUE,extraNationality,MARTINIQUE
+Low,MR,MAURITANIA,extraNationality,MAURITANIA
+Low,NI,NICARAGUA,extraNationality,NICARAGUA
+Low,NL,NETHERLANDS,extraNationality,NETHERLANDS
+Low,NO,Norway,extraNationality,Norway
+Low,NZ,NEW ZEELAND,extraNationality,NEW ZEELAND
+Low,PF,FRENCH POLYNESIA,extraNationality,FRENCH POLYNESIA
+Low,PL,POLAND,extraNationality,POLAND
+Low,PR,PUERTO RICO,extraNationality,PUERTO RICO
+Low,PT,PORTUGAL,extraNationality,PORTUGAL
+Low,RO,ROMANIA,extraNationality,ROMANIA
+Low,SA,SAUDI ARABIA,extraNationality,SAUDI ARABIA
+Low,SE,SWEDEN,extraNationality,SWEDEN
+Low,SI,Slovinia,extraNationality,Slovinia
+Low,SM,SAN MARINO,extraNationality,SAN MARINO
+Low,SV,EL SALVADOR,extraNationality,EL SALVADOR
+Low,TF,FRENCH SOUTHERN TERRITORIES,extraNationality,FRENCH SOUTHERN TERRITORIES
+Low,TH,THAILAND,extraNationality,THAILAND
+Low,TW,TAIWAN,extraNationality,TAIWAN
+Low,VA,VATICAN CITY STATE,extraNationality,VATICAN CITY STATE
+Low,YU,YUGOSLAVIA,extraNationality,YUGOSLAVIA
+Medium,AE,UNITED ARAB EMIRATES,extraNationality,UNITED ARAB EMIRATES
+Medium,AI,ANGUILLA,extraNationality,ANGUILLA
+Medium,AL,ALBANIA,extraNationality,ALBANIA
+Medium,BD,BANGLADESH,extraNationality,BANGLADESH
+Medium,BI,BURUNDI,extraNationality,BURUNDI
+Medium,BJ,BENIN,extraNationality,BENIN
+Medium,BO,BOLIVIA,extraNationality,BOLIVIA
+Medium,BR,BRAZIL,extraNationality,BRAZIL
+Medium,BT,BHUTAN,extraNationality,BHUTAN
+Medium,CH,CHINA,extraNationality,CHINA
+Medium,CN,CHINA,extraNationality,CHINA
+Medium,DJ,DJIBOUTI,extraNationality,DJIBOUTI
+Medium,EG,EGYPT,extraNationality,EGYPT
+Medium,EH,WESTERN SAHARA,extraNationality,WESTERN SAHARA
+Medium,GH,GHANA,extraNationality,GHANA
+Medium,GR,GREECE,extraNationality,GREECE
+Medium,KM,COMOROS,extraNationality,COMOROS
+Medium,KW,KUWAIT,extraNationality,KUWAIT
+Medium,LS,LESOTHO,extraNationality,LESOTHO
+Medium,LV,Latvia,extraNationality,Latvia
+Medium,MA,MOROCCO,extraNationality,MOROCCO
+Medium,MC,MONACO,extraNationality,MONACO
+Medium,MG,MADAGASCAR,extraNationality,MADAGASCAR
+Medium,MT,MALTA,extraNationality,MALTA
+Medium,MW,MALAWI,extraNationality,MALAWI
+Medium,MX,MEXICO,extraNationality,MEXICO
+Medium,MY,MALAYSIA,extraNationality,MALAYSIA
+Medium,NE,NIGER,extraNationality,NIGER
+Medium,NG,NIGERIA,extraNationality,NIGERIA
+Medium,OM,OMAN,extraNationality,OMAN
+Medium,PH,PHILIPPINES,extraNationality,PHILIPPINES
+Medium,PS,PALESTINE,extraNationality,PALESTINE
+Medium,PY,PARAGUAY,extraNationality,PARAGUAY
+Medium,QA,QATAR,extraNationality,QATAR
+Medium,SZ,SWAZILAND,extraNationality,SWAZILAND
+Medium,TD,CHAD,extraNationality,CHAD
+Medium,TG,TOGO,extraNationality,TOGO
+Medium,TT,TRINIDAD AND TOBAGO,extraNationality,TRINIDAD AND TOBAGO
+Medium,US,UNITED STATES,extraNationality,UNITED STATES
+Medium,UY,URUGUAY,extraNationality,URUGUAY
+Medium,VE,VENEZUELA,extraNationality,VENEZUELA
+Medium,VN,VIET NAM,extraNationality,VIET NAM
+Medium,ZA,SOUTH AFRICA,extraNationality,SOUTH AFRICA
+High,IR,IRAN (ISLAMIC REPUBLIC),extraNationality,IRAN (ISLAMIC REPUBLIC)
+High,KP,"KOREA,DEMOCRATIC PEOPLE'S REPUBLIC",extraNationality,"KOREA,DEMOCRATIC PEOPLE'S REPUBLIC"
+High,AD,ANDORA,nationalityOriginal,ANDORA
+High,AF,AFGHANISTAN,nationalityOriginal,AFGHANISTAN
+High,AG,ANTIGUA AND BARBUDA,nationalityOriginal,ANTIGUA AND BARBUDA
+High,AN,NETHERLANDS ANTILLES,nationalityOriginal,NETHERLANDS ANTILLES
+High,AO,ANGOLA,nationalityOriginal,ANGOLA
+High,AQ,ANTARCTICA,nationalityOriginal,ANTARCTICA
+High,AR,ARGENTINA,nationalityOriginal,ARGENTINA
+High,AS,AMERICAN SAMOE,nationalityOriginal,AMERICAN SAMOE
+High,AW,ARUBA,nationalityOriginal,ARUBA
+High,BA,Bosnia,nationalityOriginal,Bosnia
+High,BB,BARBADOS,nationalityOriginal,BARBADOS
+High,BH,BAHRAIN,nationalityOriginal,BAHRAIN
+High,BM,BERMUDA,nationalityOriginal,BERMUDA
+High,BN,BRUNEI DARUSSALAM,nationalityOriginal,BRUNEI DARUSSALAM
+High,BS,BAHAMAS,nationalityOriginal,BAHAMAS
+High,BV,BOVET ISLAND,nationalityOriginal,BOVET ISLAND
+High,BZ,BELIZE,nationalityOriginal,BELIZE
+High,CC,COCOS (KEELING) ISLANDS,nationalityOriginal,COCOS (KEELING) ISLANDS
+High,CD,ZAIRE,nationalityOriginal,ZAIRE
+High,CI,COTE DLVOIRE,nationalityOriginal,COTE DLVOIRE
+High,CK,COOK ISLANDS,nationalityOriginal,COOK ISLANDS
+High,CO,COLOMBIA,nationalityOriginal,COLOMBIA
+High,CU,CUBA,nationalityOriginal,CUBA
+High,CX,CHRISTMAS ISLAND,nationalityOriginal,CHRISTMAS ISLAND
+High,CY,CYPRUS,nationalityOriginal,CYPRUS
+High,DZ,ALGERIA,nationalityOriginal,ALGERIA
+High,ET,ETHIOPIA,nationalityOriginal,ETHIOPIA
+High,FJ,FIJI,nationalityOriginal,FIJI
+High,FK,FALKLAND ISLANDS (MALVINAS),nationalityOriginal,FALKLAND ISLANDS (MALVINAS)
+High,FM,MICRONESIA,nationalityOriginal,MICRONESIA
+High,FO,FARO ISLANDS,nationalityOriginal,FARO ISLANDS
+High,GL,GREENLAND,nationalityOriginal,GREENLAND
+High,GN,GUINEA,nationalityOriginal,GUINEA
+High,GP,GUADELOUPE,nationalityOriginal,GUADELOUPE
+High,GQ,EQUATORIAL GUINEA,nationalityOriginal,EQUATORIAL GUINEA
+High,GT,GUATEMALA,nationalityOriginal,GUATEMALA
+High,GU,GUAM,nationalityOriginal,GUAM
+High,GW,GUINEA-BISSAU,nationalityOriginal,GUINEA-BISSAU
+High,GY,GUYANA,nationalityOriginal,GUYANA
+High,HK,HONG KONG,nationalityOriginal,HONG KONG
+High,HM,HEARD AND MCDONALD ISLANDS,nationalityOriginal,HEARD AND MCDONALD ISLANDS
+High,HN,HONDURAS,nationalityOriginal,HONDURAS
+High,HT,HAITI,nationalityOriginal,HAITI
+High,IO,BRITISH INDIAN OCEAN TERRITORY,nationalityOriginal,BRITISH INDIAN OCEAN TERRITORY
+High,IQ,IRAQ,nationalityOriginal,IRAQ
+High,JM,JAMAICA,nationalityOriginal,JAMAICA
+High,KE,KENYA,nationalityOriginal,KENYA
+High,KH,"KAMPUCHEA , DEMOCRATIC",nationalityOriginal,"KAMPUCHEA , DEMOCRATIC"
+High,KI,KIRIBATI,nationalityOriginal,KIRIBATI
+High,KN,SAINT KITTS AND NEVIS,nationalityOriginal,SAINT KITTS AND NEVIS
+High,KY,CAYMAN ISLANDS,nationalityOriginal,CAYMAN ISLANDS
+High,LA,LAO PEOPLE'S DEMOCRATIC REPUBLIC,nationalityOriginal,LAO PEOPLE'S DEMOCRATIC REPUBLIC
+High,LB,LEBANON,nationalityOriginal,LEBANON
+High,LC,SAINT LUCIA,nationalityOriginal,SAINT LUCIA
+High,LT,Lithuania,nationalityOriginal,Lithuania
+High,LY,LIBYAN ARAB JAMAHIRIYA,nationalityOriginal,LIBYAN ARAB JAMAHIRIYA
+High,MD,Moldova,nationalityOriginal,Moldova
+High,ME,Montenegro,nationalityOriginal,Montenegro
+High,MH,MARSHALL ISLANDS,nationalityOriginal,MARSHALL ISLANDS
+High,ML,MALI,nationalityOriginal,MALI
+High,MM,BURMA,nationalityOriginal,BURMA
+High,MN,MONGOLIA,nationalityOriginal,MONGOLIA
+High,MP,NOTHEN MARIANA ISLANDS,nationalityOriginal,NOTHEN MARIANA ISLANDS
+High,MS,MONTSERRAT,nationalityOriginal,MONTSERRAT
+High,MU,MAURITIUS,nationalityOriginal,MAURITIUS
+High,MV,MALDIVES,nationalityOriginal,MALDIVES
+High,MZ,MOZAMBIQUE,nationalityOriginal,MOZAMBIQUE
+High,,NAMIBIA,nationalityOriginal,NAMIBIA
+High,NC,NEW CALEDONIA,nationalityOriginal,NEW CALEDONIA
+High,NF,NORFOLK ISLAND,nationalityOriginal,NORFOLK ISLAND
+High,NP,NEPAL,nationalityOriginal,NEPAL
+High,NR,NAURU,nationalityOriginal,NAURU
+High,NT,NEUTRAL ZONE,nationalityOriginal,NEUTRAL ZONE
+High,NU,NIUE,nationalityOriginal,NIUE
+High,PA,PANAMA,nationalityOriginal,PANAMA
+High,PE,PERU,nationalityOriginal,PERU
+High,PG,PAPUA NEW GUINEA,nationalityOriginal,PAPUA NEW GUINEA
+High,PK,PAKISTAN,nationalityOriginal,PAKISTAN
+High,PM,ST. PIERRE AND MIQUELON,nationalityOriginal,ST. PIERRE AND MIQUELON
+High,PN,PITCAIRN,nationalityOriginal,PITCAIRN
+High,PW,PALAU,nationalityOriginal,PALAU
+High,RE,REUNION,nationalityOriginal,REUNION
+High,RU,Russia,nationalityOriginal,Russia
+High,RW,RWANDA,nationalityOriginal,RWANDA
+High,SB,SOLOMON ISLAND,nationalityOriginal,SOLOMON ISLAND
+High,SC,SEYCHELLES,nationalityOriginal,SEYCHELLES
+High,SD,SUDAN,nationalityOriginal,SUDAN
+High,SG,Singapore,nationalityOriginal,Singapore
+High,SH,ST.HELENA,nationalityOriginal,ST.HELENA
+High,SJ,SVALLBARD AND JAN MAYAN ISLANDS,nationalityOriginal,SVALLBARD AND JAN MAYAN ISLANDS
+High,SL,SIERRA LEONE,nationalityOriginal,SIERRA LEONE
+High,SN,SENEGAL,nationalityOriginal,SENEGAL
+High,SO,SOMALIA,nationalityOriginal,SOMALIA
+High,SR,SURINAME,nationalityOriginal,SURINAME
+High,ST,SAO TOME AND PRINCIPE,nationalityOriginal,SAO TOME AND PRINCIPE
+High,SY,SYRIAN ARAB REPUBLIC,nationalityOriginal,SYRIAN ARAB REPUBLIC
+High,TC,TURKS AND CAICOS ISLANDS,nationalityOriginal,TURKS AND CAICOS ISLANDS
+High,TK,TOKELAU,nationalityOriginal,TOKELAU
+High,TL,EAST TIMOR,nationalityOriginal,EAST TIMOR
+High,TN,TUNISIA,nationalityOriginal,TUNISIA
+High,TO,TONGA,nationalityOriginal,TONGA
+High,TR,TURKEY,nationalityOriginal,TURKEY
+High,TV,TUVALU,nationalityOriginal,TUVALU
+High,TZ,"TANZANIA, UNITED REPUBLIC",nationalityOriginal,"TANZANIA, UNITED REPUBLIC"
+High,UA,UKRAINIAN SSR,nationalityOriginal,UKRAINIAN SSR
+High,UG,UGANDA,nationalityOriginal,UGANDA
+High,UM,UNITED STATES MINOR OUTLYING ISLANDS,nationalityOriginal,UNITED STATES MINOR OUTLYING ISLANDS
+High,VC,SAINT VINCENT AND THE GRENADINES,nationalityOriginal,SAINT VINCENT AND THE GRENADINES
+High,VG,VIRGIN ISLANDS (BRITISH),nationalityOriginal,VIRGIN ISLANDS (BRITISH)
+High,VI,VIRGIN ISLANDS (U.S),nationalityOriginal,VIRGIN ISLANDS (U.S)
+High,VU,VANUATU,nationalityOriginal,VANUATU
+High,WF,WALLIS AND FUTUNA ISLANDS,nationalityOriginal,WALLIS AND FUTUNA ISLANDS
+High,WS,SAMOA,nationalityOriginal,SAMOA
+High,YE,YEMEN,nationalityOriginal,YEMEN
+High,ZM,ZAMBIA,nationalityOriginal,ZAMBIA
+High,ZW,ZIMBABWE,nationalityOriginal,ZIMBABWE
+Low,AM,ARMENIA,nationalityOriginal,ARMENIA
+Low,AT,AUSTRIA,nationalityOriginal,AUSTRIA
+Low,AU,AUSTRALIA,nationalityOriginal,AUSTRALIA
+Low,AZ,Azerbaijan,nationalityOriginal,Azerbaijan
+Low,BE,BELGIUM,nationalityOriginal,BELGIUM
+Low,BF,BURKINA FASO,nationalityOriginal,BURKINA FASO
+Low,BG,BULGARIA,nationalityOriginal,BULGARIA
+Low,BW,BOTSWANA,nationalityOriginal,BOTSWANA
+Low,CA,CANADA,nationalityOriginal,CANADA
+Low,CF,CENTRAL AFRICAN REPUBLIC,nationalityOriginal,CENTRAL AFRICAN REPUBLIC
+Low,CG,CONGO,nationalityOriginal,CONGO
+Low,CL,CHILE,nationalityOriginal,CHILE
+Low,CM,CAMEROON,nationalityOriginal,CAMEROON
+Low,CR,COSTA RICA,nationalityOriginal,COSTA RICA
+Low,CV,CAPE VERDE,nationalityOriginal,CAPE VERDE
+Low,CZ,CZECH REPUBLIC,nationalityOriginal,CZECH REPUBLIC
+Low,DD,GERMAN DEMOCRATIC REPUBLIC,nationalityOriginal,GERMAN DEMOCRATIC REPUBLIC
+Low,DE,Germany,nationalityOriginal,Germany
+Low,DK,DENMARK,nationalityOriginal,DENMARK
+Low,DM,DOMINICA,nationalityOriginal,DOMINICA
+Low,DO,DOMINICAN REPUBLIC,nationalityOriginal,DOMINICAN REPUBLIC
+Low,EC,ECUADOR,nationalityOriginal,ECUADOR
+Low,EE,Estonia,nationalityOriginal,Estonia
+Low,ES,SPAIN,nationalityOriginal,SPAIN
+Low,FI,FINLAND,nationalityOriginal,FINLAND
+Low,FR,FRANCE,nationalityOriginal,FRANCE
+Low,GA,GABON,nationalityOriginal,GABON
+Low,GB,UNITED KINGDOM,nationalityOriginal,UNITED KINGDOM
+Low,GE,Georgia,nationalityOriginal,Georgia
+Low,GF,FRENCH GUIANA,nationalityOriginal,FRENCH GUIANA
+Low,GI,GIBALTAR,nationalityOriginal,GIBALTAR
+Low,GM,GAMBIA,nationalityOriginal,GAMBIA
+Low,HR,CROATIA,nationalityOriginal,CROATIA
+Low,HU,HUNGARY,nationalityOriginal,HUNGARY
+Low,ID,INDONESIA,nationalityOriginal,INDONESIA
+Low,IE,IRELAND,nationalityOriginal,IRELAND
+Low,IL,ISRAEL,nationalityOriginal,ISRAEL
+Low,IN,INDIA,nationalityOriginal,INDIA
+Low,IS,ICELAND,nationalityOriginal,ICELAND
+Low,IT,ITALY,nationalityOriginal,ITALY
+Low,JO,JORDAN,nationalityOriginal,JORDAN
+Low,JP,JAPAN,nationalityOriginal,JAPAN
+Low,KR,"KOREA, REPUBLIC SOUTH",nationalityOriginal,"KOREA, REPUBLIC SOUTH"
+Low,LI,LIECHTENSTEIN,nationalityOriginal,LIECHTENSTEIN
+Low,LK,SRI LANKA,nationalityOriginal,SRI LANKA
+Low,LR,LIBERIA,nationalityOriginal,LIBERIA
+Low,LU,LUXEMBOURG,nationalityOriginal,LUXEMBOURG
+Low,MK,MACEDONIA,nationalityOriginal,MACEDONIA
+Low,MO,MACAU,nationalityOriginal,MACAU
+Low,MQ,MARTINIQUE,nationalityOriginal,MARTINIQUE
+Low,MR,MAURITANIA,nationalityOriginal,MAURITANIA
+Low,NI,NICARAGUA,nationalityOriginal,NICARAGUA
+Low,NL,NETHERLANDS,nationalityOriginal,NETHERLANDS
+Low,NO,Norway,nationalityOriginal,Norway
+Low,NZ,NEW ZEELAND,nationalityOriginal,NEW ZEELAND
+Low,PF,FRENCH POLYNESIA,nationalityOriginal,FRENCH POLYNESIA
+Low,PL,POLAND,nationalityOriginal,POLAND
+Low,PR,PUERTO RICO,nationalityOriginal,PUERTO RICO
+Low,PT,PORTUGAL,nationalityOriginal,PORTUGAL
+Low,RO,ROMANIA,nationalityOriginal,ROMANIA
+Low,SA,SAUDI ARABIA,nationalityOriginal,SAUDI ARABIA
+Low,SE,SWEDEN,nationalityOriginal,SWEDEN
+Low,SI,Slovinia,nationalityOriginal,Slovinia
+Low,SM,SAN MARINO,nationalityOriginal,SAN MARINO
+Low,SV,EL SALVADOR,nationalityOriginal,EL SALVADOR
+Low,TF,FRENCH SOUTHERN TERRITORIES,nationalityOriginal,FRENCH SOUTHERN TERRITORIES
+Low,TH,THAILAND,nationalityOriginal,THAILAND
+Low,TW,TAIWAN,nationalityOriginal,TAIWAN
+Low,VA,VATICAN CITY STATE,nationalityOriginal,VATICAN CITY STATE
+Low,YU,YUGOSLAVIA,nationalityOriginal,YUGOSLAVIA
+Medium,AE,UNITED ARAB EMIRATES,nationalityOriginal,UNITED ARAB EMIRATES
+Medium,AI,ANGUILLA,nationalityOriginal,ANGUILLA
+Medium,AL,ALBANIA,nationalityOriginal,ALBANIA
+Medium,BD,BANGLADESH,nationalityOriginal,BANGLADESH
+Medium,BI,BURUNDI,nationalityOriginal,BURUNDI
+Medium,BJ,BENIN,nationalityOriginal,BENIN
+Medium,BO,BOLIVIA,nationalityOriginal,BOLIVIA
+Medium,BR,BRAZIL,nationalityOriginal,BRAZIL
+Medium,BT,BHUTAN,nationalityOriginal,BHUTAN
+Medium,CH,CHINA,nationalityOriginal,CHINA
+Medium,CN,CHINA,nationalityOriginal,CHINA
+Medium,DJ,DJIBOUTI,nationalityOriginal,DJIBOUTI
+Medium,EG,EGYPT,nationalityOriginal,EGYPT
+Medium,EH,WESTERN SAHARA,nationalityOriginal,WESTERN SAHARA
+Medium,GH,GHANA,nationalityOriginal,GHANA
+Medium,GR,GREECE,nationalityOriginal,GREECE
+Medium,KM,COMOROS,nationalityOriginal,COMOROS
+Medium,KW,KUWAIT,nationalityOriginal,KUWAIT
+Medium,LS,LESOTHO,nationalityOriginal,LESOTHO
+Medium,LV,Latvia,nationalityOriginal,Latvia
+Medium,MA,MOROCCO,nationalityOriginal,MOROCCO
+Medium,MC,MONACO,nationalityOriginal,MONACO
+Medium,MG,MADAGASCAR,nationalityOriginal,MADAGASCAR
+Medium,MT,MALTA,nationalityOriginal,MALTA
+Medium,MW,MALAWI,nationalityOriginal,MALAWI
+Medium,MX,MEXICO,nationalityOriginal,MEXICO
+Medium,MY,MALAYSIA,nationalityOriginal,MALAYSIA
+Medium,NE,NIGER,nationalityOriginal,NIGER
+Medium,NG,NIGERIA,nationalityOriginal,NIGERIA
+Medium,OM,OMAN,nationalityOriginal,OMAN
+Medium,PH,PHILIPPINES,nationalityOriginal,PHILIPPINES
+Medium,PS,PALESTINE,nationalityOriginal,PALESTINE
+Medium,PY,PARAGUAY,nationalityOriginal,PARAGUAY
+Medium,QA,QATAR,nationalityOriginal,QATAR
+Medium,SZ,SWAZILAND,nationalityOriginal,SWAZILAND
+Medium,TD,CHAD,nationalityOriginal,CHAD
+Medium,TG,TOGO,nationalityOriginal,TOGO
+Medium,TT,TRINIDAD AND TOBAGO,nationalityOriginal,TRINIDAD AND TOBAGO
+Medium,US,UNITED STATES,nationalityOriginal,UNITED STATES
+Medium,UY,URUGUAY,nationalityOriginal,URUGUAY
+Medium,VE,VENEZUELA,nationalityOriginal,VENEZUELA
+Medium,VN,VIET NAM,nationalityOriginal,VIET NAM
+Medium,ZA,SOUTH AFRICA,nationalityOriginal,SOUTH AFRICA
+High,IR,IRAN (ISLAMIC REPUBLIC),nationalityOriginal,IRAN (ISLAMIC REPUBLIC)
+High,KP,"KOREA,DEMOCRATIC PEOPLE'S REPUBLIC",nationalityOriginal,"KOREA,DEMOCRATIC PEOPLE'S REPUBLIC"
+High,COP,Copper,accountCurrency,Copper
+High,IQD,Iraqi Dinar,accountCurrency,Iraqi Dinar
+High,IRR,Iranian Rial,accountCurrency,Iranian Rial
+High,LBP,Lebanese Lira,accountCurrency,Lebanese Lira
+High,PKR,Pakistan Rupee,accountCurrency,Pakistan Rupee
+High,QAR,Qatari Rial,accountCurrency,Qatari Rial
+High,RUS,Rouble,accountCurrency,Rouble
+High,SYP,Syrian Lira,accountCurrency,Syrian Lira
+High,TRL,Turkish Lira,accountCurrency,Turkish Lira
+High,Try,Turkish Lera,accountCurrency,Turkish Lera
+High,XAG,SILVER,accountCurrency,SILVER
+High,XAU,Gold,accountCurrency,Gold
+High,XPD,PALLADIUM,accountCurrency,PALLADIUM
+High,XPT,PLATINUM,accountCurrency,PLATINUM
+Low,JOD,Jordanian Dinar,accountCurrency,Jordanian Dinar
+Medium,AED,UAE Dirham,accountCurrency,UAE Dirham
+Medium,ATS,shilling,accountCurrency,shilling
+Medium,AUD,Australian Dollar,accountCurrency,Australian Dollar
+Medium,BBD,BD$,accountCurrency,BD$
+Medium,BEF,Belgium Franc,accountCurrency,Belgium Franc
+Medium,BHD,Bahrain dinar,accountCurrency,Bahrain dinar
+Medium,CAD,Canadian Dollar,accountCurrency,Canadian Dollar
+Medium,CHF,Swiss Franc,accountCurrency,Swiss Franc
+Medium,CHN,Yuan,accountCurrency,Yuan
+Medium,COF,COFFEE/MARCH,accountCurrency,COFFEE/MARCH
+Medium,COP,colombian peso,accountCurrency,colombian peso
+Medium,CYP,Cyprus Pound,accountCurrency,Cyprus Pound
+Medium,DEM,Deutsche Mark,accountCurrency,Deutsche Mark
+Medium,DKK,Danish Krone,accountCurrency,Danish Krone
+Medium,EGP,Egypian Pound,accountCurrency,Egypian Pound
+Medium,ESP,Spanish Peseta,accountCurrency,Spanish Peseta
+Medium,EUR,EURO,accountCurrency,EURO
+Medium,FIM,Markka,accountCurrency,Markka
+Medium,FRF,French Franc,accountCurrency,French Franc
+Medium,GBP,Pound Sterling,accountCurrency,Pound Sterling
+Medium,GRD,Drachma,accountCurrency,Drachma
+Medium,HKD,Hong Kong Dollar,accountCurrency,Hong Kong Dollar
+Medium,IDR,RUPIAH,accountCurrency,RUPIAH
+Medium,IEP,Irish Pound(punt),accountCurrency,Irish Pound(punt)
+Medium,ILS,Shekel,accountCurrency,Shekel
+Medium,INR,Indian Rupee,accountCurrency,Indian Rupee
+Medium,ITL,Italian Lira,accountCurrency,Italian Lira
+Medium,JPY,Yen,accountCurrency,Yen
+Medium,KWD,Kuwaiti Dinar,accountCurrency,Kuwaiti Dinar
+Medium,MAD,Moroccan Dirham,accountCurrency,Moroccan Dirham
+Medium,NLG,Netherland Guilder,accountCurrency,Netherland Guilder
+Medium,NOK,Norwegian Krone,accountCurrency,Norwegian Krone
+Medium,NZD,Newzelend Dollar,accountCurrency,Newzelend Dollar
+Medium,OMR,Omani Riyal,accountCurrency,Omani Riyal
+Medium,PLN,Polish Zloti,accountCurrency,Polish Zloti
+Medium,ROL,Romenian leu,accountCurrency,Romenian leu
+Medium,SAR,Saudi Riyal,accountCurrency,Saudi Riyal
+Medium,SEK,Sweden Krone,accountCurrency,Sweden Krone
+Medium,SGD,Sigapore Dollar,accountCurrency,Sigapore Dollar
+Medium,SKK,Kron Slovaki,accountCurrency,Kron Slovaki
+Medium,THB,Baht,accountCurrency,Baht
+Medium,TND,Tunisian Dinar,accountCurrency,Tunisian Dinar
+Medium,TWD,New Taiwan Dollar,accountCurrency,New Taiwan Dollar
+Medium,USD,US Dollar,accountCurrency,US Dollar
+Male,1,Male,GENDER,Male
+Female,2,Female,GENDER,Female
+Individual,1,Individual,customerType,Individual
+Entity,2,Entity,customerType,Entity
+Yes,Y,Yes,onboarding,Yes
+No,N,No,onboarding,No
+Resident,1,Resident,residentStatus,Resident
+Non-Resident,2,Non-Resident,residentStatus,Non-Resident
+Normal Account,0,Normal Account,jointAccount,Normal Account
+Joint Account,1,Joint Account,jointAccount,Joint Account
+Low,L,Low,rbaGradeAbrv,Low
+Medium,M,Medium,rbaGradeAbrv,Medium
+High,H,High,rbaGradeAbrv,High
